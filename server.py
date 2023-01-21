@@ -28,7 +28,7 @@ def get_opening_times_json(input_sentence):
 
     prompt = """
 
-We want to be an API that turns opening hours text into JSON with keys of days of the week, and values of an array of opening and closing times in HH:MM format.
+We want to be an API that turns natural language opening hours text into JSON with keys of days of the week, and values of an array of opening and closing times in HH:MM format. This will be used as data for an open now filter feature in an app. 
 
 For example,
 
@@ -68,6 +68,18 @@ And another example, "Open on wed 11-2 and fri-sun 9-6:30" should return
     "Sunday": [["09:00", "18:00"]]
 }
 
+If it is unclear which set of opening hours to apply, for example if the input is "May-October: 10:00-18:00, November-April: 9.00-17:00", default to the hours when the facility is definitely open (latest open and earliest close):
+
+{
+    "Monday": [["10:00", "17:00"]],
+    "Tuesday": [["10:00", "17:00"]],
+    "Wednesday": [["10:00", "17:00"]],
+    "Thursday": [["10:00", "17:00"]],
+    "Friday": [["10:00", "17:00"]],
+    "Saturday": [["10:00", "17:00"]],
+    "Sunday": [["10:00", "17:00"]]
+}
+
 Now convert the sentence below into valid JSON:
 
 """
@@ -84,6 +96,6 @@ Now convert the sentence below into valid JSON:
     return None
     
 
-print(get_opening_times_json("Mon/Wed 9.30-7pm Fri 9.30-1pm Sat 11-5pm"))
+print(get_opening_times_json("1st April - 31st October: 9:00-18:00, 1st November - 31st March: 9.00-17:00"))
 
 
