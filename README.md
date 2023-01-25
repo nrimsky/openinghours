@@ -1,5 +1,5 @@
 
-## Installation instructions
+## Usage instructions
 
 1. Create a virtual environment
 ```
@@ -16,9 +16,9 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Get your API key and org key from OpenAI, insert them into the `server.py` file
+4. Get your API key from OpenAI and create a `key.txt` file in the root directory with that API key
 
 5. Run the application
 ```
 python server.py
-```# openinghours
+```
