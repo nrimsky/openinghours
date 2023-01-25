@@ -1,3 +1,4 @@
+Most of code and promot engineeing by https://github.com/neilkakkar
 
 ## Usage instructions
 
