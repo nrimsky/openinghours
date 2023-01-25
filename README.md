@@ -1,4 +1,4 @@
-Most of code and promot engineeing by https://github.com/neilkakkar
+Most of code and prompt engineeing by https://github.com/neilkakkar
 
 ## Usage instructions
 
