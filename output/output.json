@@ -1,0 +1,581 @@
+{
+  "name": "T4L-data-export-2023-01-29.json",
+  "data": [
+    {
+      "prompt": "9am-8pm weekdays, 8:30am-5pm weekends",
+      "completion": "{'Monday': [['09:00', '20:00']], 'Tuesday': [['09:00', '20:00']], 'Wednesday': [['09:00', '20:00']], 'Thursday': [['09:00', '20:00']], 'Friday': [['09:00', '20:00']], 'Saturday': [['08:30', '17:00']], 'Sunday': [['08:30', '17:00']]}"
+    },
+    {
+      "prompt": "1st April - 31st October: 9:00-18:00, 1st November - 31st March: 9.00-17:00",
+      "completion": "{'Monday': [['09:00', '17:00']], 'Tuesday': [['09:00', '17:00']], 'Wednesday': [['09:00', '17:00']], 'Thursday': [['09:00', '17:00']], 'Friday': [['09:00', '17:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': [['09:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday to Friday 8am to 10pm - Saturday 8am to 4pm - sunday 8am to 6pm",
+      "completion": "{'Monday': [['08:00', '22:00']], 'Tuesday': [['08:00', '22:00']], 'Wednesday': [['08:00', '22:00']], 'Thursday': [['08:00', '22:00']], 'Friday': [['08:00', '22:00']], 'Saturday': [['08:00', '16:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Mon 9.30-1pm Tues/ Thurs 9.20-8pm Sat 11-5pm",
+      "completion": "{'Monday': [['09:30', '13:00']], 'Tuesday': [['09:20', '20:00']], 'Wednesday': [], 'Thursday': [['09:20', '20:00']], 'Friday': [], 'Saturday': [['11:00', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mon 11:00 - 15:00 Tues-Sat 10:30-16:00 Sun 9:45-12:30",
+      "completion": "{'Monday': [['11:00', '15:00']], 'Tuesday': [['10:30', '16:00']], 'Wednesday': [['10:30', '16:00']], 'Thursday': [['10:30', '16:00']], 'Friday': [['10:30', '16:00']], 'Saturday': [['10:30', '16:00']], 'Sunday': [['09:45', '12:30']]}"
+    },
+    {
+      "prompt": "MON-THURS 9 TO 7 FRI- 9 TO 6 SAT-SUN 11:30-15:30",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '19:00']], 'Thursday': [['09:00', '19:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['11:30', '15:30']], 'Sunday': [['11:30', '15:30']]}"
+    },
+    {
+      "prompt": "Mon to Friday only (9am to 3pm)",
+      "completion": "{'Monday': [['09:00', '15:00']], 'Tuesday': [['09:00', '15:00']], 'Wednesday': [['09:00', '15:00']], 'Thursday': [['09:00', '15:00']], 'Friday': [['09:00', '15:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Times vary depending on the time of year.  Normally open between 12pm and dusk Mon to Friday and only between May and September.",
+      "completion": "{'Monday': [['12:00', '00:00']], 'Tuesday': [['12:00', '00:00']], 'Wednesday': [['12:00', '00:00']], 'Thursday': [['12:00', '00:00']], 'Friday': [['12:00', '00:00']], 'Saturday': [], 'Sunday': [], 'May': [['12:00', '00:00']], 'June': [['12:00', '00:00']], 'July': [['12:00', '00:00']], 'August': [['12:00', '00:00']], 'September': [['12:00', '00:00']]}"
+    },
+    {
+      "prompt": "10am to 5pm (Mon to Sunday)",
+      "completion": "{'Monday': [['10:00', '17:00']], 'Tuesday': [['10:00', '17:00']], 'Wednesday': [['10:00', '17:00']], 'Thursday': [['10:00', '17:00']], 'Friday': [['10:00', '17:00']], 'Saturday': [['10:00', '17:00']], 'Sunday': [['10:00', '17:00']]}"
+    },
+    {
+      "prompt": "8am to  10:00pm Mon to Fri) and 8am to 6:30pm (Sat and Sunday)",
+      "completion": "{'Monday': [['08:00', '22:00']], 'Tuesday': [['08:00', '22:00']], 'Wednesday': [['08:00', '22:00']], 'Thursday': [['08:00', '22:00']], 'Friday': [['08:00', '22:00']], 'Saturday': [['08:00', '18:30']], 'Sunday': [['08:00', '18:30']]}"
+    },
+    {
+      "prompt": "8am to  10:00pm Mon to Fri) and 8am to 6:30pm (Sat and Sunday)",
+      "completion": "{'Monday': [['08:00', '22:00']], 'Tuesday': [['08:00', '22:00']], 'Wednesday': [['08:00', '22:00']], 'Thursday': [['08:00', '22:00']], 'Friday': [['08:00', '22:00']], 'Saturday': [['08:00', '18:30']], 'Sunday': [['08:00', '18:30']]}"
+    },
+    {
+      "prompt": "8am to  10:00pm Mon to Fri) and 8am to 6:30pm (Sat and Sunday)",
+      "completion": "{'Monday': [['08:00', '22:00']], 'Tuesday': [['08:00', '22:00']], 'Wednesday': [['08:00', '22:00']], 'Thursday': [['08:00', '22:00']], 'Friday': [['08:00', '22:00']], 'Saturday': [['08:00', '18:30']], 'Sunday': [['08:00', '18:30']]}"
+    },
+    {
+      "prompt": "8am to dusk Mon to Sunday",
+      "completion": "{'Monday': [['08:00', '24:00']], 'Tuesday': [['08:00', '24:00']], 'Wednesday': [['08:00', '24:00']], 'Thursday': [['08:00', '24:00']], 'Friday': [['08:00', '24:00']], 'Saturday': [['08:00', '24:00']], 'Sunday': [['08:00', '24:00']]}"
+    },
+    {
+      "prompt": "8am to 9pm Mon to Sunday",
+      "completion": "{'Monday': [['08:00', '21:00']], 'Tuesday': [['08:00', '21:00']], 'Wednesday': [['08:00', '21:00']], 'Thursday': [['08:00', '21:00']], 'Friday': [['08:00', '21:00']], 'Saturday': [['08:00', '21:00']], 'Sunday': [['08:00', '21:00']]}"
+    },
+    {
+      "prompt": "Monday-Friday 06.30-22.00 Sat/Sunday 08.00-18.00",
+      "completion": "{'Monday': [['06:30', '22:00']], 'Tuesday': [['06:30', '22:00']], 'Wednesday': [['06:30', '22:00']], 'Thursday': [['06:30', '22:00']], 'Friday': [['06:30', '22:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday -Friday 07.00-22.00 Sat/Sun 08.00-22.00",
+      "completion": "{'Monday': [['07:00', '22:00']], 'Tuesday': [['07:00', '22:00']], 'Wednesday': [['07:00', '22:00']], 'Thursday': [['07:00', '22:00']], 'Friday': [['07:00', '22:00']], 'Saturday': [['08:00', '22:00']], 'Sunday': [['08:00', '22:00']]}"
+    },
+    {
+      "prompt": "Monday -Friday 06.30-21.30 Sat/Sun 09.00-18.00",
+      "completion": "{'Monday': [['06:30', '21:30']], 'Tuesday': [['06:30', '21:30']], 'Wednesday': [['06:30', '21:30']], 'Thursday': [['06:30', '21:30']], 'Friday': [['06:30', '21:30']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday-Friday 06.30-22.00 Sat/Sunday 08.00-18.00",
+      "completion": "{'Monday': [['06:30', '22:00']], 'Tuesday': [['06:30', '22:00']], 'Wednesday': [['06:30', '22:00']], 'Thursday': [['06:30', '22:00']], 'Friday': [['06:30', '22:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday -Friday 09.00-22.00 Sat/Sun 10.00-18.00",
+      "completion": "{'Monday': [['09:00', '22:00']], 'Tuesday': [['09:00', '22:00']], 'Wednesday': [['09:00', '22:00']], 'Thursday': [['09:00', '22:00']], 'Friday': [['09:00', '22:00']], 'Saturday': [['10:00', '18:00']], 'Sunday': [['10:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday- Friday 06.30-21.30 Sat/Sun 08.30-17.00",
+      "completion": "{'Monday': [['06:30', '21:30']], 'Tuesday': [['06:30', '21:30']], 'Wednesday': [['06:30', '21:30']], 'Thursday': [['06:30', '21:30']], 'Friday': [['06:30', '21:30']], 'Saturday': [['08:30', '17:00']], 'Sunday': [['08:30', '17:00']]}"
+    },
+    {
+      "prompt": "Monday- Friday 06.30-21.30 Sat/Sun 08.30-17.00",
+      "completion": "{'Monday': [['06:30', '21:30']], 'Tuesday': [['06:30', '21:30']], 'Wednesday': [['06:30', '21:30']], 'Thursday': [['06:30', '21:30']], 'Friday': [['06:30', '21:30']], 'Saturday': [['08:30', '17:00']], 'Sunday': [['08:30', '17:00']]}"
+    },
+    {
+      "prompt": "Tues/Thues 9.30-8pm  Fri/Sat 9.30-5pm",
+      "completion": "{'Monday': [], 'Tuesday': [['09:30', '20:00']], 'Wednesday': [], 'Thursday': [['09:30', '20:00']], 'Friday': [['09:30', '17:00']], 'Saturday': [['09:30', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Tues/Thurs 9.30-8pm Fri 9.30-1pm Sat 11-5pm",
+      "completion": "{'Monday': [], 'Tuesday': [['09:30', '20:00']], 'Wednesday': [], 'Thursday': [['09:30', '20:00']], 'Friday': [['09:30', '13:00']], 'Saturday': [['11:00', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mon/Wed 9.30-8pm Tues /Fri/ Sat 9.30-5pm",
+      "completion": "{'Monday': [['09:30', '20:00']], 'Tuesday': [['09:30', '17:00']], 'Wednesday': [['09:30', '20:00']], 'Thursday': [], 'Friday': [['09:30', '17:00']], 'Saturday': [['09:30', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mon 9.30-1pm Tues/ Thurs 9.20-8pm Sat 11-5pm",
+      "completion": "{'Monday': [['09:30', '13:00']], 'Tuesday': [['09:20', '20:00']], 'Wednesday': [], 'Thursday': [['09:20', '20:00']], 'Friday': [], 'Saturday': [['11:00', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mon/Wed 9.30-7pm Fri 9.30-1pm Sat 11-5pm",
+      "completion": "{'Monday': [['09:30', '19:00']], 'Tuesday': [], 'Wednesday': [['09:30', '19:00']], 'Thursday': [], 'Friday': [['09:30', '13:00']], 'Saturday': [['11:00', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mon/ Thurs 9am-8pm  Tues/Wed / Fri/ Sat 9am-5pm",
+      "completion": "{'Monday': [['09:00', '20:00']], 'Tuesday': [['09:00', '17:00']], 'Wednesday': [['09:00', '17:00']], 'Thursday': [['09:00', '20:00']], 'Friday': [['09:00', '17:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mon/Wed/Thurs 9.30-8pm Tues/ Fri/Sat 9.30-5pm Sun 1pm-5pm",
+      "completion": "{'Monday': [['09:30', '20:00']], 'Tuesday': [['09:30', '17:00']], 'Wednesday': [['09:30', '20:00']], 'Thursday': [['09:30', '20:00']], 'Friday': [['09:30', '17:00']], 'Saturday': [['09:30', '17:00']], 'Sunday': [['13:00', '17:00']]}"
+    },
+    {
+      "prompt": "Tues 9.30-7pm, Wed 9.30-1pm Thurs 9.30-7pm Sat 11am-5pm",
+      "completion": "{'Monday': [], 'Tuesday': [['09:30', '19:00']], 'Wednesday': [['09:30', '13:00']], 'Thursday': [['09:30', '19:00']], 'Friday': [], 'Saturday': [['11:00', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mon/Wed9.30-8pm Friday/ Sat 9.30-5pm",
+      "completion": "{'Monday': [['09:30', '20:00']], 'Tuesday': [], 'Wednesday': [['09:30', '20:00']], 'Thursday': [], 'Friday': [['09:30', '17:00']], 'Saturday': [['09:30', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "urinal only - Friday/ Saturday 7pm-6am",
+      "completion": "{'Monday': [], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['19:00', '06:00']], 'Saturday': [['19:00', '06:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday to Saturday 08.00-22.00 Sunday 11.00-17.00",
+      "completion": "{'Monday': [['08:00', '22:00']], 'Tuesday': [['08:00', '22:00']], 'Wednesday': [['08:00', '22:00']], 'Thursday': [['08:00', '22:00']], 'Friday': [['08:00', '22:00']], 'Saturday': [['08:00', '22:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "9:30am-7pm Mon-Sat, 11am-5pm Sun",
+      "completion": "{'Monday': [['09:30', '19:00']], 'Tuesday': [['09:30', '19:00']], 'Wednesday': [['09:30', '19:00']], 'Thursday': [['09:30', '19:00']], 'Friday': [['09:30', '19:00']], 'Saturday': [['09:30', '19:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "Mon - Thurs 11:00-18:00; Fri - closed; Sa & Sun: 10:00-17:00",
+      "completion": "{'Monday': [['11:00', '18:00']], 'Tuesday': [['11:00', '18:00']], 'Wednesday': [['11:00', '18:00']], 'Thursday': [['11:00', '18:00']], 'Friday': [], 'Saturday': [['10:00', '17:00']], 'Sunday': [['10:00', '17:00']]}"
+    },
+    {
+      "prompt": "Open during store hours, no code required",
+      "completion": "{'Monday': [], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "dawn - dusk daily",
+      "completion": "{'Monday': [['dawn', 'dusk']], 'Tuesday': [['dawn', 'dusk']], 'Wednesday': [['dawn', 'dusk']], 'Thursday': [['dawn', 'dusk']], 'Friday': [['dawn', 'dusk']], 'Saturday': [['dawn', 'dusk']], 'Sunday': [['dawn', 'dusk']]}"
+    },
+    {
+      "prompt": "dawn - dusk daily",
+      "completion": "{'Monday': [['dawn', 'dusk']], 'Tuesday': [['dawn', 'dusk']], 'Wednesday': [['dawn', 'dusk']], 'Thursday': [['dawn', 'dusk']], 'Friday': [['dawn', 'dusk']], 'Saturday': [['dawn', 'dusk']], 'Sunday': [['dawn', 'dusk']]}"
+    },
+    {
+      "prompt": "dawn - dusk daily",
+      "completion": "{'Monday': [['dawn', 'dusk']], 'Tuesday': [['dawn', 'dusk']], 'Wednesday': [['dawn', 'dusk']], 'Thursday': [['dawn', 'dusk']], 'Friday': [['dawn', 'dusk']], 'Saturday': [['dawn', 'dusk']], 'Sunday': [['dawn', 'dusk']]}"
+    },
+    {
+      "prompt": "dawn - dusk daily",
+      "completion": "{'Monday': [['dawn', 'dusk']], 'Tuesday': [['dawn', 'dusk']], 'Wednesday': [['dawn', 'dusk']], 'Thursday': [['dawn', 'dusk']], 'Friday': [['dawn', 'dusk']], 'Saturday': [['dawn', 'dusk']], 'Sunday': [['dawn', 'dusk']]}"
+    },
+    {
+      "prompt": "dawn - dusk daily",
+      "completion": "{'Monday': [['dawn', 'dusk']], 'Tuesday': [['dawn', 'dusk']], 'Wednesday': [['dawn', 'dusk']], 'Thursday': [['dawn', 'dusk']], 'Friday': [['dawn', 'dusk']], 'Saturday': [['dawn', 'dusk']], 'Sunday': [['dawn', 'dusk']]}"
+    },
+    {
+      "prompt": "dawn - dusk daily",
+      "completion": "{'Monday': [['dawn', 'dusk']], 'Tuesday': [['dawn', 'dusk']], 'Wednesday': [['dawn', 'dusk']], 'Thursday': [['dawn', 'dusk']], 'Friday': [['dawn', 'dusk']], 'Saturday': [['dawn', 'dusk']], 'Sunday': [['dawn', 'dusk']]}"
+    },
+    {
+      "prompt": "dawn - dusk daily",
+      "completion": "{'Monday': [['dawn', 'dusk']], 'Tuesday': [['dawn', 'dusk']], 'Wednesday': [['dawn', 'dusk']], 'Thursday': [['dawn', 'dusk']], 'Friday': [['dawn', 'dusk']], 'Saturday': [['dawn', 'dusk']], 'Sunday': [['dawn', 'dusk']]}"
+    },
+    {
+      "prompt": "24hrs",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "24hrs",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "8am to 6.30pm Monday to Saturday and 8am to 4pm on Sundays",
+      "completion": "{'Monday': [['08:00', '18:30']], 'Tuesday': [['08:00', '18:30']], 'Wednesday': [['08:00', '18:30']], 'Thursday': [['08:00', '18:30']], 'Friday': [['08:00', '18:30']], 'Saturday': [['08:00', '18:30']], 'Sunday': [['08:00', '16:00']]}"
+    },
+    {
+      "prompt": "automated unit 24 hours",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "automated unit 24 hours",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "see restaurant opening times",
+      "completion": "{'Monday': [], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Open: Monday to Friday 9am to 7pm, Saturday 9am to 6pm, Sunday 12pm to 4pm",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '19:00']], 'Thursday': [['09:00', '19:00']], 'Friday': [['09:00', '19:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['12:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday to Sunday 8am to 6pm",
+      "completion": "{'Monday': [['08:00', '18:00']], 'Tuesday': [['08:00', '18:00']], 'Wednesday': [['08:00', '18:00']], 'Thursday': [['08:00', '18:00']], 'Friday': [['08:00', '18:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday to Saturday: 7am to 6pm, Sunday: 9am to 5pm",
+      "completion": "{'Monday': [['07:00', '18:00']], 'Tuesday': [['07:00', '18:00']], 'Wednesday': [['07:00', '18:00']], 'Thursday': [['07:00', '18:00']], 'Friday': [['07:00', '18:00']], 'Saturday': [['07:00', '18:00']], 'Sunday': [['09:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday 5pm to 11pm, Tuesday to Thursday Midday to 11pm, Friday to Saturday Midday to Midnight, Sunday Midday to 10.30pm",
+      "completion": "{'Monday': [['17:00', '23:00']], 'Tuesday': [['12:00', '23:00']], 'Wednesday': [['12:00', '23:00']], 'Thursday': [['12:00', '23:00']], 'Friday': [['12:00', '24:00']], 'Saturday': [['12:00', '24:00']], 'Sunday': [['12:00', '22:30']]}"
+    },
+    {
+      "prompt": "Monday to Friday: 9am to 10pm, Saturday, Sunday: 9am to 6pm",
+      "completion": "{'Monday': [['09:00', '22:00']], 'Tuesday': [['09:00', '22:00']], 'Wednesday': [['09:00', '22:00']], 'Thursday': [['09:00', '22:00']], 'Friday': [['09:00', '22:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday to Friday: 9am to 6pm, Saturday: 9am to 6pm, Sunday 10am to 4pm",
+      "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday to Saturday 9.30am to 5pm, Sunday 9am to 5pm",
+      "completion": "{'Monday': [['09:30', '17:00']], 'Tuesday': [['09:30', '17:00']], 'Wednesday': [['09:30', '17:00']], 'Thursday': [['09:30', '17:00']], 'Friday': [['09:30', '17:00']], 'Saturday': [['09:30', '17:00']], 'Sunday': [['09:00', '17:00']]}"
+    },
+    {
+      "prompt": "Sunday to Thursday 10am to 11pm, Friday to Saturday 10am to 1am",
+      "completion": "{'Sunday': [['10:00', '23:00']], 'Monday': [['10:00', '23:00']], 'Tuesday': [['10:00', '23:00']], 'Wednesday': [['10:00', '23:00']], 'Thursday': [['10:00', '23:00']], 'Friday': [['10:00', '24:00']], 'Saturday': [['10:00', '24:00']]}"
+    },
+        {
+      "prompt": "Closed: Tuesday, Wednesday, Sunday, Open: Monday, Thursday, Friday, Saturday 10am to 6pm",
+      "completion": "{'Monday': [['10:00', '18:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [['10:00', '18:00']], 'Friday': [['10:00', '18:00']], 'Saturday': [['10:00', '18:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday to Sunday: 6am to 6pm",
+      "completion": "{'Monday': [['06:00', '18:00']], 'Tuesday': [['06:00', '18:00']], 'Wednesday': [['06:00', '18:00']], 'Thursday': [['06:00', '18:00']], 'Friday': [['06:00', '18:00']], 'Saturday': [['06:00', '18:00']], 'Sunday': [['06:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday to Saturday 8am to 11pm",
+      "completion": "{'Monday': [['08:00', '23:00']], 'Tuesday': [['08:00', '23:00']], 'Wednesday': [['08:00', '23:00']], 'Thursday': [['08:00', '23:00']], 'Friday': [['08:00', '23:00']], 'Saturday': [['08:00', '23:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Facilities: Unisex, Monday to Tuesday 9am to 3pm, Wednesday to Sunday 9am to 10pm",
+      "completion": "{'Monday': [['09:00', '15:00']], 'Tuesday': [['09:00', '15:00']], 'Wednesday': [['09:00', '22:00']], 'Thursday': [['09:00', '22:00']], 'Friday': [['09:00', '22:00']], 'Saturday': [['09:00', '22:00']], 'Sunday': [['09:00', '22:00']]}"
+    },
+    {
+      "prompt": "Monday to Friday Midday to 2.30pm, 6pm to 10.30pm, Saturday: 6pm to 11pm, Sunday: 12pm to 10.30pm",
+      "completion": "{'Monday': [['12:00', '14:30'], ['18:00', '22:30']], 'Tuesday': [['12:00', '14:30'], ['18:00', '22:30']], 'Wednesday': [['12:00', '14:30'], ['18:00', '22:30']], 'Thursday': [['12:00', '14:30'], ['18:00', '22:30']], 'Friday': [['12:00', '14:30'], ['18:00', '22:30']], 'Saturday': [['18:00', '23:00']], 'Sunday': [['12:00', '22:30']]}"
+    },
+    {
+      "prompt": ", Facilities: Unisex, Monday to Saturday 6.30am to 5pm, Sunday 9am to 4pm",
+      "completion": "{'Monday': [['06:30', '17:00']], 'Tuesday': [['06:30', '17:00']], 'Wednesday': [['06:30', '17:00']], 'Thursday': [['06:30', '17:00']], 'Friday': [['06:30', '17:00']], 'Saturday': [['06:30', '17:00']], 'Sunday': [['09:00', '16:00']]}"
+    },
+    {
+      "prompt": "Facilities: Male and Female, 8.30am to Sunset",
+      "completion": "{'Monday': [['08:30', 'Sunset']], 'Tuesday': [['08:30', 'Sunset']], 'Wednesday': [['08:30', 'Sunset']], 'Thursday': [['08:30', 'Sunset']], 'Friday': [['08:30', 'Sunset']], 'Saturday': [['08:30', 'Sunset']], 'Sunday': [['08:30', 'Sunset']]}"
+    },
+    {
+      "prompt": "Monday to Sunday 8am to 6pm",
+      "completion": "{'Monday': [['08:00', '18:00']], 'Tuesday': [['08:00', '18:00']], 'Wednesday': [['08:00', '18:00']], 'Thursday': [['08:00', '18:00']], 'Friday': [['08:00', '18:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Closed : Monday, Thursday, Sunday, Open: Tuesday, Wednesday, Friday 10am to 6pm,, Saturday 10am to 4pm",
+      "completion": "{'Monday': [], 'Tuesday': [['10:00', '18:00']], 'Wednesday': [['10:00', '18:00']], 'Thursday': [], 'Friday': [['10:00', '18:00']], 'Saturday': [['10:00', '16:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday to Saturday: 7am to 6pm, Sunday: 9am to 5pm",
+      "completion": "{'Monday': [['07:00', '18:00']], 'Tuesday': [['07:00', '18:00']], 'Wednesday': [['07:00', '18:00']], 'Thursday': [['07:00', '18:00']], 'Friday': [['07:00', '18:00']], 'Saturday': [['07:00', '18:00']], 'Sunday': [['09:00', '17:00']]}"
+    },
+    {
+      "prompt": "Facilities: 1 unisex toilet located in Offices, Monday to Thursday: 9am to 12 pm, 1 to 3pm, Friday: 9.30am to 12 noon",
+      "completion": "{'Monday': [['09:00', '12:00'], ['13:00', '15:00']], 'Tuesday': [['09:00', '12:00'], ['13:00', '15:00']], 'Wednesday': [['09:00', '12:00'], ['13:00', '15:00']], 'Thursday': [['09:00', '12:00'], ['13:00', '15:00']], 'Friday': [['09:30', '12:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday to Friday 9am to 7pm, Saturday 9am to 6pm",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '19:00']], 'Thursday': [['09:00', '19:00']], 'Friday': [['09:00', '19:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Facilities: Male and Female, Monday to Friday: 7am to 3.30pm, Saturday: 7am to 3pm, Sunday closed",
+      "completion": "{'Monday': [['07:00', '15:30']], 'Tuesday': [['07:00', '15:30']], 'Wednesday': [['07:00', '15:30']], 'Thursday': [['07:00', '15:30']], 'Friday': [['07:00', '15:30']], 'Saturday': [['07:00', '15:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "24hr",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "24hr",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "Monday-Friday 6.3am-9pm Saturday &amp; Sunday 8am-6pm",
+      "completion": "{'Monday': [['06:30', '21:00']], 'Tuesday': [['06:30', '21:00']], 'Wednesday': [['06:30', '21:00']], 'Thursday': [['06:30', '21:00']], 'Friday': [['06:30', '21:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday-Sunday 7am-8pm",
+      "completion": "{'Monday': [['07:00', '20:00']], 'Tuesday': [['07:00', '20:00']], 'Wednesday': [['07:00', '20:00']], 'Thursday': [['07:00', '20:00']], 'Friday': [['07:00', '20:00']], 'Saturday': [['07:00', '20:00']], 'Sunday': [['07:00', '20:00']]}"
+    },
+    {
+      "prompt": "Mondays 6.30am-9pm Saturday &amp; Sunday 8am -6pm",
+      "completion": "{'Monday': [['06:30', '21:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday  Friday 6.30am  9pm Saturday &amp; Sunday 8am  6pm",
+      "completion": "{'Monday': [['06:30', '21:00']], 'Tuesday': [['06:30', '21:00']], 'Wednesday': [['06:30', '21:00']], 'Thursday': [['06:30', '21:00']], 'Friday': [['06:30', '21:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday, 10am  6pm Tuesday-Friday, 9.30am  6pm Saturday, 9.30am  5pm",
+      "completion": "{'Monday': [['10:00', '18:00']], 'Tuesday': [['09:30', '18:00']], 'Wednesday': [['09:30', '18:00']], 'Thursday': [['09:30', '18:00']], 'Friday': [['09:30', '18:00']], 'Saturday': [['09:30', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday-Sunday 7am-9.30pm",
+      "completion": "{'Monday': [['07:00', '21:30']], 'Tuesday': [['07:00', '21:30']], 'Wednesday': [['07:00', '21:30']], 'Thursday': [['07:00', '21:30']], 'Friday': [['07:00', '21:30']], 'Saturday': [['07:00', '21:30']], 'Sunday': [['07:00', '21:30']]}"
+    },
+    {
+      "prompt": "Monday -Sunday 7am-5pm",
+      "completion": "{'Monday': [['07:00', '17:00']], 'Tuesday': [['07:00', '17:00']], 'Wednesday': [['07:00', '17:00']], 'Thursday': [['07:00', '17:00']], 'Friday': [['07:00', '17:00']], 'Saturday': [['07:00', '17:00']], 'Sunday': [['07:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday-Sunday 7am-7pm",
+      "completion": "{'Monday': [['07:00', '19:00']], 'Tuesday': [['07:00', '19:00']], 'Wednesday': [['07:00', '19:00']], 'Thursday': [['07:00', '19:00']], 'Friday': [['07:00', '19:00']], 'Saturday': [['07:00', '19:00']], 'Sunday': [['07:00', '19:00']]}"
+    },
+    {
+      "prompt": "Monday -Sunday 7am-4.30am",
+      "completion": "{'Monday': [['07:00', '16:30'], ['00:00', '04:30']], 'Tuesday': [['07:00', '16:30'], ['00:00', '04:30']], 'Wednesday': [['07:00', '16:30'], ['00:00', '04:30']], 'Thursday': [['07:00', '16:30'], ['00:00', '04:30']], 'Friday': [['07:00', '16:30'], ['00:00', '04:30']], 'Saturday': [['07:00', '16:30'], ['00:00', '04:30']], 'Sunday': [['07:00', '16:30'], ['00:00', '04:30']]}"
+    },
+    {
+      "prompt": "Monday-Sunday, 7am  7pm",
+      "completion": "{'Monday': [['07:00', '19:00']], 'Tuesday': [['07:00', '19:00']], 'Wednesday': [['07:00', '19:00']], 'Thursday': [['07:00', '19:00']], 'Friday': [['07:00', '19:00']], 'Saturday': [['07:00', '19:00']], 'Sunday': [['07:00', '19:00']]}"
+    },
+    {
+      "prompt": "Monday  Friday 12pm-7pm Saturday &amp; Sunday 9am-6pm",
+      "completion": "{'Monday': [['12:00', '19:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['12:00', '19:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday  Friday 8am  4pm",
+      "completion": "{'Monday': [['08:00', '16:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['08:00', '16:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday -Sunday 7am-7pm",
+      "completion": "{'Monday': [['07:00', '19:00']], 'Tuesday': [['07:00', '19:00']], 'Wednesday': [['07:00', '19:00']], 'Thursday': [['07:00', '19:00']], 'Friday': [['07:00', '19:00']], 'Saturday': [['07:00', '19:00']], 'Sunday': [['07:00', '19:00']]}"
+    },
+    {
+      "prompt": "Monday  Friday 8.30am-5.30pm",
+      "completion": "{'Monday': [['08:30', '17:30']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['08:30', '17:30']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday  Friday 7.00am  9.30pm Saturday &amp; Sunday 8.00am  7.30pm",
+      "completion": "{'Monday': [['07:00', '21:30']], 'Tuesday': [['07:00', '21:30']], 'Wednesday': [['07:00', '21:30']], 'Thursday': [['07:00', '21:30']], 'Friday': [['07:00', '21:30']], 'Saturday': [['08:00', '19:30']], 'Sunday': [['08:00', '19:30']]}"
+    },
+    {
+      "prompt": "Monday  Saturday 10am-2pm",
+      "completion": "{'Monday': [['10:00', '14:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['10:00', '14:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday  Sunday 9am  5pm",
+      "completion": "{'Monday': [['09:00', '17:00']], 'Tuesday': [['09:00', '17:00']], 'Wednesday': [['09:00', '17:00']], 'Thursday': [['09:00', '17:00']], 'Friday': [['09:00', '17:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': [['09:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday to Friday, 8.30am  9pm Saturday, 8.30am  8pm Sunday, 10.00am  4pm",
+      "completion": "{'Monday': [['08:30', '21:00']], 'Tuesday': [['08:30', '21:00']], 'Wednesday': [['08:30', '21:00']], 'Thursday': [['08:30', '21:00']], 'Friday': [['08:30', '21:00']], 'Saturday': [['08:30', '20:00']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday to Friday, 8.30am  9pm Saturday, 8.30am  8pm Sunday, 11.00am  5pm",
+      "completion": "{'Monday': [['08:30', '21:00']], 'Tuesday': [['08:30', '21:00']], 'Wednesday': [['08:30', '21:00']], 'Thursday': [['08:30', '21:00']], 'Friday': [['08:30', '21:00']], 'Saturday': [['08:30', '20:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday to Sunday, 6.30am  3.30pm",
+      "completion": "{'Monday': [['06:30', '15:30']], 'Tuesday': [['06:30', '15:30']], 'Wednesday': [['06:30', '15:30']], 'Thursday': [['06:30', '15:30']], 'Friday': [['06:30', '15:30']], 'Saturday': [['06:30', '15:30']], 'Sunday': [['06:30', '15:30']]}"
+    },
+    {
+      "prompt": "Monday to Saturday, 7.00am  10.00pm Sunday, 11.00am  5.00pm",
+      "completion": "{'Monday': [['07:00', '22:00']], 'Tuesday': [['07:00', '22:00']], 'Wednesday': [['07:00', '22:00']], 'Thursday': [['07:00', '22:00']], 'Friday': [['07:00', '22:00']], 'Saturday': [['07:00', '22:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday to Saturday 12.00 Midday  11.00pm Sunday 12.00 Midday  10.30pm",
+      "completion": "{'Monday': [['12:00', '23:00']], 'Tuesday': [['12:00', '23:00']], 'Wednesday': [['12:00', '23:00']], 'Thursday': [['12:00', '23:00']], 'Friday': [['12:00', '23:00']], 'Saturday': [['12:00', '23:00']], 'Sunday': [['12:00', '22:30']]}"
+    },
+    {
+      "prompt": "Monday to Saturday 9am-5.30pm Sunday, 10am-4pm",
+      "completion": "{'Monday': [['09:00', '17:30']], 'Tuesday': [['09:00', '17:30']], 'Wednesday': [['09:00', '17:30']], 'Thursday': [['09:00', '17:30']], 'Friday': [['09:00', '17:30']], 'Saturday': [['09:00', '17:30']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday to Saturday 11.00am  11.00pm Sunday 11.00am  10.00pm",
+      "completion": "{'Monday': [['11:00', '23:00']], 'Tuesday': [['11:00', '23:00']], 'Wednesday': [['11:00', '23:00']], 'Thursday': [['11:00', '23:00']], 'Friday': [['11:00', '23:00']], 'Saturday': [['11:00', '23:00']], 'Sunday': [['11:00', '22:00']]}"
+    },
+    {
+      "prompt": "Monday to Saturday, 11.00am  11.00pm Sunday, 12.00pm  10.30pm",
+      "completion": "{'Monday': [['11:00', '23:00']], 'Tuesday': [['11:00', '23:00']], 'Wednesday': [['11:00', '23:00']], 'Thursday': [['11:00', '23:00']], 'Friday': [['11:00', '23:00']], 'Saturday': [['11:00', '23:00']], 'Sunday': [['12:00', '22:30']]}"
+    },
+    {
+      "prompt": "Monday, Tuesday, Wednesday, Friday, Saturday, 9am  7pm Thursday, 9am  9pm Sunday, 11am - 5pm",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '19:00']], 'Thursday': [['09:00', '21:00']], 'Friday': [['09:00', '19:00']], 'Saturday': [['09:00', '19:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday to Saturday 6.00am  12 Midnight Sunday, 10.00am  4.00pm",
+      "completion": "{'Monday': [['06:00', '24:00']], 'Tuesday': [['06:00', '24:00']], 'Wednesday': [['06:00', '24:00']], 'Thursday': [['06:00', '24:00']], 'Friday': [['06:00', '24:00']], 'Saturday': [['06:00', '24:00']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday  Saturday, 11.30am  11pm Sunday, 11am  11pm",
+      "completion": "{'Monday': [['11:30', '23:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['11:30', '23:00']], 'Sunday': [['11:00', '23:00']]}"
+    },
+    {
+      "prompt": "Monday- Friday, 6.30am  7.30pm Saturday, 7am - 7.30pm Sunday, 7.30am  6.30pm",
+      "completion": "{'Monday': [['06:30', '19:30']], 'Tuesday': [['06:30', '19:30']], 'Wednesday': [['06:30', '19:30']], 'Thursday': [['06:30', '19:30']], 'Friday': [['06:30', '19:30']], 'Saturday': [['07:00', '19:30']], 'Sunday': [['07:30', '18:30']]}"
+    },
+    {
+      "prompt": "Monday  Sunday, 9am-11.30pm",
+      "completion": "{'Monday': [['09:00', '23:30']], 'Tuesday': [['09:00', '23:30']], 'Wednesday': [['09:00', '23:30']], 'Thursday': [['09:00', '23:30']], 'Friday': [['09:00', '23:30']], 'Saturday': [['09:00', '23:30']], 'Sunday': [['09:00', '23:30']]}"
+    },
+    {
+      "prompt": "Monday  Saturday, 8am-9pm, Sunday 11am-5pm",
+      "completion": "{'Monday': [['08:00', '21:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['08:00', '21:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday  Friday, 7am-10pm Saturday, 7am-9pm Sunday, 11am-5pm",
+      "completion": "{'Monday': [['07:00', '22:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['07:00', '22:00']], 'Saturday': [['07:00', '21:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday  Friday, 7am-12 Midnight Saturday, 7am-10pm Sunday, 10am-4pm",
+      "completion": "{'Monday': [['07:00', '24:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['07:00', '24:00']], 'Saturday': [['07:00', '22:00']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday  Saturday, 7am-10pm Sunday, 10am  4pm",
+      "completion": "{'Monday': [['07:00', '22:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['07:00', '22:00']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday  Saturday, 7am-10pm Sunday, 11am  5pm",
+      "completion": "{'Monday': [['07:00', '22:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['07:00', '22:00']], 'Sunday': [['11:00', '17:00']]}"
+    },
+    {
+      "prompt": "Monday  Saturday, 7am-9pm Sunday, 10am  4pm",
+      "completion": "{'Monday': [['07:00', '21:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['07:00', '21:00']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday  Friday, 6.30am  4.00pm Saturday, 7am  4pm Sunday, 8am  4pm",
+      "completion": "{'Monday': [['06:30', '16:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['06:30', '16:00']], 'Saturday': [['07:00', '16:00']], 'Sunday': [['08:00', '16:00']]}"
+    },
+    {
+      "prompt": "Monday  Saturday, 7am  4pm Sunday, 8.30am  2.3pm",
+      "completion": "{'Monday': [['07:00', '16:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['07:00', '16:00']], 'Sunday': [['08:30', '14:30']]}"
+    },
+    {
+      "prompt": "Monday, Wednesday, Thursay, Friday, 1.30pm  9.30pm Saturday &amp; Sunday, 11am  9.30pm",
+      "completion": "{'Monday': [['13:30', '21:30']], 'Tuesday': [], 'Wednesday': [['13:30', '21:30']], 'Thursday': [['13:30', '21:30']], 'Friday': [['13:30', '21:30']], 'Saturday': [['11:00', '21:30']], 'Sunday': [['11:00', '21:30']]}"
+    },
+    {
+      "prompt": "Monday  Saturday, 11.30am  11.00pm Sunday, 11am  11pm",
+      "completion": "{'Monday': [['11:30', '23:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [['11:30', '23:00']], 'Sunday': [['11:00', '23:00']]}"
+    },
+    {
+      "prompt": "Monday  Sunday, 24hours",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+        {
+      "prompt": "MONDAY TO THURSDAY 12.00 - 11.00PM FRIDAY TO SATURDAY 12.00 - MIDNIGHT SUNDAY 12.00 - 10.30PM",
+      "completion": "{'Monday': [['12:00', '23:00']], 'Tuesday': [['12:00', '23:00']], 'Wednesday': [['12:00', '23:00']], 'Thursday': [['12:00', '23:00']], 'Friday': [['12:00', '24:00']], 'Saturday': [['12:00', '24:00']], 'Sunday': [['12:00', '22:30']]}"
+    },
+    {
+      "prompt": "Hours: 9am-6pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+      "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+      "prompt": "24hrs",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "Mon, Wed, Fri: 8.30am�5pm | Tue, Thu: 8.30am�7pm | Saturday 9am�5pm | Sun: Closed",
+      "completion": "{'Monday': [['08:30', '17:00']], 'Tuesday': [['08:30', '19:00']], 'Wednesday': [['08:30', '17:00']], 'Thursday': [['08:30', '19:00']], 'Friday': [['08:30', '17:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Inside James Leal centre open only on the days centre is open Monday-Friday and when the caf� is open at weekends",
+      "completion": "{'Monday': [], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "1 April to 30 SeptemberMonday to Saturday, 8.30am to 7pmSunday and Bank Holidays, 10am to 7pm1 October to 31 MarchMonday to Saturday, 8.30am to 5pmSunday and Bank Holidays, 10am to 5pmChristmas Day, 10am to 2pm",
+      "completion": "{'Monday': [['08:30', '19:00']], 'Tuesday': [['08:30', '19:00']], 'Wednesday': [['08:30', '19:00']], 'Thursday': [['08:30', '19:00']], 'Friday': [['08:30', '19:00']], 'Saturday': [['08:30', '19:00']], 'Sunday': [['10:00', '19:00']], 'Christmas Day': [['10:00', '14:00']]}"
+    },
+    {
+      "prompt": "MONDAY - TUESDAY 11.30 - 15.00 & 17.30 - 21.00, WEDNESDAY - FRIDAY 11.30 - 15.00 & 17.30 - 21.30, Sat Closed, Sun Closed, Bank holiday Closed",
+      "completion": "{'Monday': [['11:30', '15:00'], ['17:30', '21:00']], 'Tuesday': [['11:30', '15:00'], ['17:30', '21:00']], 'Wednesday': [['11:30', '15:00'], ['17:30', '21:30']], 'Thursday': [['11:30', '15:00'], ['17:30', '21:30']], 'Friday': [['11:30', '15:00'], ['17:30', '21:30']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Thu, Sat, Sun: 8am-4pm",
+      "completion": "{'Monday': [], 'Tuesday': [], 'Wednesday': [], 'Thursday': [['08:00', '16:00']], 'Friday': [], 'Saturday': [['08:00', '16:00']], 'Sunday': [['08:00', '16:00']]}"
+    },
+    {
+      "prompt": "from Friday evening to Monday morning",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['18:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "Museum: 10am-5.30pm (Mon-Sun) | Gardens - 7.15am-sunset (Mon-Sat) 8am-sunset (Sun)",
+      "completion": "{'Monday': [['10:00', '17:30'], ['07:15', 'sunset']], 'Tuesday': [['10:00', '17:30'], ['07:15', 'sunset']], 'Wednesday': [['10:00', '17:30'], ['07:15', 'sunset']], 'Thursday': [['10:00', '17:30'], ['07:15', 'sunset']], 'Friday': [['10:00', '17:30'], ['07:15', 'sunset']], 'Saturday': [['10:00', '17:30'], ['07:15', 'sunset']], 'Sunday': [['10:00', '17:30'], ['08:00', 'sunset']]}"
+    },
+    {
+      "prompt": "Monday - Friday 8:30 - 16:30 Saturday 9:00 - 16:00",
+      "completion": "{'Monday': [['08:30', '16:30']], 'Tuesday': [['08:30', '16:30']], 'Wednesday': [['08:30', '16:30']], 'Thursday': [['08:30', '16:30']], 'Friday': [['08:30', '16:30']], 'Saturday': [['09:00', '16:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '19:00']], 'Thursday': [['09:00', '19:00']], 'Friday': [['09:00', '19:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': [['12:00', '16:00']]}"
+    },
+    {
+      "prompt": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '19:00']], 'Thursday': [['09:00', '19:00']], 'Friday': [['09:00', '19:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': [['12:00', '16:00']]}"
+    },
+    {
+      "prompt": "Mon-Sun: 8am-4pm",
+      "completion": "{'Monday': [['08:00', '16:00']], 'Tuesday': [['08:00', '16:00']], 'Wednesday': [['08:00', '16:00']], 'Thursday': [['08:00', '16:00']], 'Friday': [['08:00', '16:00']], 'Saturday': [['08:00', '16:00']], 'Sunday': [['08:00', '16:00']]}"
+    },
+    {
+      "prompt": "Mon-Fri 11.00 - 23.00, Sat Closed, Sun Closed, Bank holiday None",
+      "completion": "{'Monday': [['11:00', '23:00']], 'Tuesday': [['11:00', '23:00']], 'Wednesday': [['11:00', '23:00']], 'Thursday': [['11:00', '23:00']], 'Friday': [['11:00', '23:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Mo-Fr 10:00-18:00",
+      "completion": "{'Monday': [['10:00', '18:00']], 'Tuesday': [['10:00', '18:00']], 'Wednesday': [['10:00', '18:00']], 'Thursday': [['10:00', '18:00']], 'Friday': [['10:00', '18:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "Hours: 12 noon-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun",
+      "completion": "{'Monday': [['12:00', '20:00']], 'Tuesday': [['12:00', '20:00']], 'Wednesday': [['12:00', '20:00']], 'Thursday': [['12:00', '20:00']], 'Friday': [['12:00', '20:00']], 'Saturday': [['12:00', '20:00']], 'Sunday': [['12:00', '20:00']]}"
+    },
+    {
+      "prompt": "24hr",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+      "prompt": "Mon: 9:30am�8:15pm, Tues: 9:30am�9.00pm, Wed: 9:30am�9.00pm, Thurs: 9:30am�7.00pm, Fri: 9:30am�4.00pm, Sat: 9:30am�4.00pm, Sun: 9:30am�2:30pm",
+      "completion": "{'Monday': [['09:30', '20:15']], 'Tuesday': [['09:30', '21:00']], 'Wednesday': [['09:30', '21:00']], 'Thursday': [['09:30', '19:00']], 'Friday': [['09:30', '16:00']], 'Saturday': [['09:30', '16:00']], 'Sunday': [['09:30', '14:30']]}"
+    },
+    {
+      "prompt": "9am to approx 4.30pm longer hours in summer",
+      "completion": "{'Monday': [['09:00', '16:30']], 'Tuesday': [['09:00', '16:30']], 'Wednesday': [['09:00', '16:30']], 'Thursday': [['09:00', '16:30']], 'Friday': [['09:00', '16:30']], 'Saturday': [['09:00', '16:30']], 'Sunday': [['09:00', '16:30']]}"
+    },
+    {
+      "prompt": "Monday-Saturday 8.00am-4.00pm",
+      "completion": "{'Monday': [['08:00', '16:00']], 'Tuesday': [['08:00', '16:00']], 'Wednesday': [['08:00', '16:00']], 'Thursday': [['08:00', '16:00']], 'Friday': [['08:00', '16:00']], 'Saturday': [['08:00', '16:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '19:00']], 'Thursday': [['09:00', '19:00']], 'Friday': [['09:00', '19:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': [['12:00', '16:00']]}"
+    },
+    {
+      "prompt": "1st Nov�31st May 9am-6pm. 1st Jun�31st Oct 9am-8pm, 7 days.",
+      "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '20:00']], 'Sunday': [['09:00', '20:00']]}"
+    },
+    {
+      "prompt": "Monday to Friday: 24hrs Saturday: Until midnight Sunday: 10am to 4pm",
+      "completion": "{'Monday': [['00:00', '24:00']], 'Tuesday': [['00:00', '24:00']], 'Wednesday': [['00:00', '24:00']], 'Thursday': [['00:00', '24:00']], 'Friday': [['00:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['10:00', '16:00']]}"
+    },
+    {
+      "prompt": "Usually from 8am to dusk",
+      "completion": "{'Monday': [['08:00', 'dusk']], 'Tuesday': [['08:00', 'dusk']], 'Wednesday': [['08:00', 'dusk']], 'Thursday': [['08:00', 'dusk']], 'Friday': [['08:00', 'dusk']], 'Saturday': [['08:00', 'dusk']], 'Sunday': [['08:00', 'dusk']]}"
+    },
+    {
+      "prompt": "Monday, Tuesday and Thursday: 9am to 7pmWednesday closed, Friday 10am to 6pm, Saturday 9am to 5pm,Sunday closed",
+      "completion": "{'Monday': [['09:00', '19:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [], 'Thursday': [['09:00', '19:00']], 'Friday': [['10:00', '18:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': []}"
+    },
+        {
+      "prompt": "Mo 09:00-18:00 ; Tu 09:00-19:00 ; We-Fr 09:00-18:00 ; Sa 09:00-16:00 ; Su closed",
+      "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '19:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '16:00']], 'Sunday': []}"
+    },
+    {
+      "prompt": "Monday - Friday: 7am to 7pmClosed: Saturday and Sunday",
+      "completion": "{'Monday': [['07:00', '19:00']], 'Tuesday': [['07:00', '19:00']], 'Wednesday': [['07:00', '19:00']], 'Thursday': [['07:00', '19:00']], 'Friday': [['07:00', '19:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "8am to 16:00pm Monday to Friday",
+      "completion": "{'Monday': [['08:00', '16:00']], 'Tuesday': [['08:00', '16:00']], 'Wednesday': [['08:00', '16:00']], 'Thursday': [['08:00', '16:00']], 'Friday': [['08:00', '16:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+      "prompt": "MON 07:00-22:00 , TUE 07:00-22:00 , WED 07:00-22:00 , THUR 07:00-22:00 , FRI 07:00-22:00 , SAT 07:00-22:00 , SUN 12:00-18:00",
+      "completion": "{'Monday': [['07:00', '22:00']], 'Tuesday': [['07:00', '22:00']], 'Wednesday': [['07:00', '22:00']], 'Thursday': [['07:00', '22:00']], 'Friday': [['07:00', '22:00']], 'Saturday': [['07:00', '22:00']], 'Sunday': [['12:00', '18:00']]}"
+    },
+    {
+      "prompt": "Monday to Friday 9am to 8pm;Saturday 9am to 5pm;Sunday 12 pm to 4pm",
+      "completion": "{'Monday': [['09:00', '20:00']], 'Tuesday': [['09:00', '20:00']], 'Wednesday': [['09:00', '20:00']], 'Thursday': [['09:00', '20:00']], 'Friday': [['09:00', '20:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': [['12:00', '16:00']]}"
+    },
+    {
+      "prompt": "Mon, Tue, Sat: 7am-7pm | Wed, Thu, Fri: 7am-8pm | Sun: 10am-4pm",
+      "completion": "{'Monday': [['07:00', '19:00']], 'Tuesday': [['07:00', '19:00']], 'Wednesday': [['07:00', '20:00']], 'Thursday': [['07:00', '20:00']], 'Friday': [['07:00', '20:00']], 'Saturday': [['07:00', '19:00']], 'Sunday': [['10:00', '16:00']]}"
+    }
+  ]
+}
