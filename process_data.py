@@ -20,7 +20,7 @@ def process_data():
             with open(output_path, "w") as outfile:
                 outfile.write("{" + f'"name": "{file}", "data": [')
                 for item in data:
-                    oh = item.get("opening_hours", "").strip()
+                    oh = item.get("opening_hours", item.get("prompt", "")).strip()
                     if len(oh) < 1:
                         continue
                     completion = get_opening_times_json(oh)

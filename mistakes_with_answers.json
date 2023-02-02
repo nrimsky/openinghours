@@ -1,0 +1,111 @@
+[
+    {
+        "prompt": "Times vary depending on the time of year.  Normally open between 12pm and dusk Mon to Friday and only between May and September.",
+        "completion": ""
+    },
+    {
+        "prompt": "8am to dusk Mon to Sunday",
+        "completion": ""
+    },
+    {
+        "prompt": "Open during store hours, no code required",
+        "completion": ""
+    },
+    {
+        "prompt": "dawn - dusk daily",
+        "completion": ""
+    },
+    {
+        "prompt": "see restaurant opening times",
+        "completion": ""
+    },
+    {
+        "prompt": "Facilities: Male and Female, 8.30am to Sunset",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Friday 12pm-7pm Saturday &amp; Sunday 9am-6pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Friday 8am  4pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Friday 8.30am-5.30pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday 10am-2pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday, 11.30am  11pm Sunday, 11am  11pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday, 8am-9pm, Sunday 11am-5pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Friday, 7am-12 Midnight Saturday, 7am-10pm Sunday, 10am-4pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday, 7am-10pm Sunday, 10am  4pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Friday, 7am-10pm Saturday, 7am-9pm Sunday, 11am-5pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday, 7am-10pm Sunday, 11am  5pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday, 7am-9pm Sunday, 10am  4pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Friday, 6.30am  4.00pm Saturday, 7am  4pm Sunday, 8am  4pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday, 7am  4pm Sunday, 8.30am  2.3pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Monday  Saturday, 11.30am  11.00pm Sunday, 11am  11pm",
+        "completion": ""
+    },
+    {
+        "prompt": "Inside James Leal centre open only on the days centre is open Monday-Friday and when the caf\ufffd is open at weekends",
+        "completion": ""
+    },
+    {
+        "prompt": "1 April to 30 SeptemberMonday to Saturday, 8.30am to 7pmSunday and Bank Holidays, 10am to 7pm1 October to 31 MarchMonday to Saturday, 8.30am to 5pmSunday and Bank Holidays, 10am to 5pmChristmas Day, 10am to 2pm",
+        "completion": ""
+    },
+    {
+        "prompt": "from Friday evening to Monday morning",
+        "completion": ""
+    },
+    {
+        "prompt": "Museum: 10am-5.30pm (Mon-Sun) | Gardens - 7.15am-sunset (Mon-Sat) 8am-sunset (Sun)",
+        "completion": "{'Monday': [['10:00', '17:30']], 'Tuesday': [['10:00', '17:30']], 'Wednesday': [['10:00', '17:30']], 'Thursday': [['10:00', '17:30']], 'Friday': [['10:00', '17:30']], 'Saturday': [['10:00', '17:30']], 'Sunday': [['10:00', '17:30']]}"
+    },
+    {
+        "prompt": "1st Nov\ufffd31st May 9am-6pm. 1st Jun\ufffd31st Oct 9am-8pm, 7 days.",
+        "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+        "prompt": "Usually from 8am to dusk",
+        "completion": "{'Monday': [['08:00', '18:00']], 'Tuesday': [['08:00', '18:00']], 'Wednesday': [['08:00', '18:00']], 'Thursday': [['08:00', '18:00']], 'Friday': [['08:00', '18:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+        "prompt": "Monday -Sunday 7am-4.30am",
+        "completion": "{'Monday': [['07:00', '04:30']], 'Tuesday': [['07:00', '04:30']], 'Wednesday': [['07:00', '04:30']], 'Thursday': [['07:00', '04:30']], 'Friday': [['07:00', '04:30']], 'Saturday': [['07:00', '04:30']], 'Sunday': [['07:00', '04:30']]}"
+    }
+]
+

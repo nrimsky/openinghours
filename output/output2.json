@@ -1,0 +1,53 @@
+{
+    "name": "remaining.json",
+    "data": [
+        {
+            "prompt": "Monday to Friday: 7am to 4:30pm Saturday: 8am to 4pm Sunday: 10am to 2pm",
+            "completion": "{'Monday': [['07:00', '16:30']], 'Tuesday': [['07:00', '16:30']], 'Wednesday': [['07:00', '16:30']], 'Thursday': [['07:00', '16:30']], 'Friday': [['07:00', '16:30']], 'Saturday': [['08:00', '16:00']], 'Sunday': [['10:00', '14:00']]}"
+        },
+        {
+            "prompt": "Monday 16:00 - 23:00 Tuesday 16:00 - 23:00 Wednesday 16:00 - 23:00 Thursday 16:00 - 23:00 Friday 16:00 - 1:00 Saturday 12:00 - 1:00 Sunday 12:00 - 22:00",
+            "completion": "{'Monday': [['16:00', '23:00']], 'Tuesday': [['16:00', '23:00']], 'Wednesday': [['16:00', '23:00']], 'Thursday': [['16:00', '23:00']], 'Friday': [['16:00', '01:00']], 'Saturday': [['12:00', '01:00']], 'Sunday': [['12:00', '22:00']]}"
+        },
+        {
+            "prompt": "Mon-Fri 05:15-22:00, Sat 06:15-22:00, Sun 06:45-22:00",
+            "completion": "{'Monday': [['05:15', '22:00']], 'Tuesday': [['05:15', '22:00']], 'Wednesday': [['05:15', '22:00']], 'Thursday': [['05:15', '22:00']], 'Friday': [['05:15', '22:00']], 'Saturday': [['06:15', '22:00']], 'Sunday': [['06:45', '22:00']]}"
+        },
+        {
+            "prompt": "7am-4pm 7 days a week",
+            "completion": "{'Monday': [['07:00', '16:00']], 'Tuesday': [['07:00', '16:00']], 'Wednesday': [['07:00', '16:00']], 'Thursday': [['07:00', '16:00']], 'Friday': [['07:00', '16:00']], 'Saturday': [['07:00', '16:00']], 'Sunday': [['07:00', '16:00']]}"
+        },
+        {
+            "prompt": "MONDAY - FRIDAY 12.00 - 22.00, Sat CLOSED, Sun CLOSED, Bank holiday CLOSED",
+            "completion": "{'Monday': [['12:00', '22:00']], 'Tuesday': [['12:00', '22:00']], 'Wednesday': [['12:00', '22:00']], 'Thursday': [['12:00', '22:00']], 'Friday': [['12:00', '22:00']], 'Saturday': [], 'Sunday': []}"
+        },
+        {
+            "prompt": "Reported closed Sat Afternoon - will confirm exact status",
+            "completion": "{'Monday': [], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [], 'Saturday': [], 'Sunday': []}"
+        },
+        {
+            "prompt": "Mon-Fri 10.00 - 03.00, Sat 10.00 - 03.00, Sun Closed, Bank holiday None",
+            "completion": "{'Monday': [['10:00', '03:00']], 'Tuesday': [['10:00', '03:00']], 'Wednesday': [['10:00', '03:00']], 'Thursday': [['10:00', '03:00']], 'Friday': [['10:00', '03:00']], 'Saturday': [['10:00', '03:00']], 'Sunday': []}"
+        },
+        {
+            "prompt": "Every day; 9am to 4pm",
+            "completion": "{'Monday': [['09:00', '16:00']], 'Tuesday': [['09:00', '16:00']], 'Wednesday': [['09:00', '16:00']], 'Thursday': [['09:00', '16:00']], 'Friday': [['09:00', '16:00']], 'Saturday': [['09:00', '16:00']], 'Sunday': [['09:00', '16:00']]}"
+        },
+        {
+            "prompt": "Wednesday  Saturday, 10am-4pm Sunday, 11am  4pm",
+            "completion": "{'Monday': [], 'Tuesday': [], 'Wednesday': [['10:00', '16:00']], 'Thursday': [], 'Friday': [], 'Saturday': [['10:00', '16:00']], 'Sunday': [['11:00', '16:00']]}"
+        },
+        {
+            "prompt": "Mon-Fri 08.00 - 18.00, Sat 09.00 - 17.00, Sun 09.00 - 17.00, Bank holiday 09.00 - 17.00",
+            "completion": "{'Monday': [['08:00', '18:00']], 'Tuesday': [['08:00', '18:00']], 'Wednesday': [['08:00', '18:00']], 'Thursday': [['08:00', '18:00']], 'Friday': [['08:00', '18:00']], 'Saturday': [['09:00', '17:00']], 'Sunday': [['09:00', '17:00']], 'Bank Holiday': [['09:00', '17:00']]}"
+        },
+        {
+            "prompt": "Monday to Friday: 7am to 9am Saturday and Sunday: 9am to 3pm",
+            "completion": "{'Monday': [['07:00', '09:00']], 'Tuesday': [['07:00', '09:00']], 'Wednesday': [['07:00', '09:00']], 'Thursday': [['07:00', '09:00']], 'Friday': [['07:00', '09:00']], 'Saturday': [['09:00', '15:00']], 'Sunday': [['09:00', '15:00']]}"
+        },
+        {
+            "prompt": "Mon-Thu 10am-7pm, Fri 10am-5pm, Sat 11am-5pm, Sun closed.",
+            "completion": "{'Monday': [['10:00', '19:00']], 'Tuesday': [['10:00', '19:00']], 'Wednesday': [['10:00', '19:00']], 'Thursday': [['10:00', '19:00']], 'Friday': [['10:00', '17:00']], 'Saturday': [['11:00', '17:00']], 'Sunday': []}"
+        }
+    ]
+}
