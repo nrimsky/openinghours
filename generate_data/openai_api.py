@@ -4,7 +4,7 @@ import certifi
 
 certifi.where()
 
-with open("key.txt", "r") as keyfile:
+with open("../key.txt", "r") as keyfile:
     key = keyfile.read()
 
 openai.api_key = key
@@ -83,6 +83,17 @@ We want to be an API that turns unstructured natural language opening hours text
     "Friday": [["09:00", "11:00"], ["14:00", "19:00"]],
     "Saturday":[["09:00", "11:00"], ["14:00", "19:00"]],
     "Sunday": [["09:00", "11:00"], ["14:00", "19:00"]]
+}
+
+"Mon Wed Every day from 8am 10am then 4pm 9pm, Thur - Sun closed" should return
+{
+    "Monday": [["08:00", "10:00"], ["16:00", "21:00"]], 
+    "Tuesday":  [["08:00", "10:00"], ["16:00", "21:00"]], 
+    "Wednesday":  [["08:00", "10:00"], ["16:00", "21:00"]], 
+    "Thursday": [], 
+    "Friday": [], 
+    "Saturday": [], 
+    "Sunday": []
 }
 
 Now convert the input below into the valid JSON format:

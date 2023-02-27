@@ -3,39 +3,14 @@
 ## About
 
 - Using OpenAI's GPT3 API to parse natural language opening hours into a structured JSON format
-- First attempt simply involved using a good prompt with some examples
-- Currently working on generating a training dataset to finetune GPT3 via https://beta.openai.com/docs/guides/fine-tuning
-- Am working on a UI project (https://github.com/nrimsky/Feedbackr) to make it easier to collect accurate training data for this
-
-
-## Usage instructions
-
-1. Create a virtual environment
-```
-python -m venv env
-```
-
-2. Activate the virtual environment
-```
-source env/bin/activate
-```
-
-3. Install the requirements
-```
-pip install -r requirements.txt
-```
-
-4. Get your API key from OpenAI and create a `key.txt` file in the root directory with that API key
-
-5. Run the application
-```
-python server.py
-```
+- Use prompt engineering with some examples to produce initial training set (`generate_data`)
+- Get humans to weed out correct and incorrect generations, and handwrite correct answers for some incorrect ones using https://github.com/nrimsky/Feedbackr (`use_feedback`)
+- Use the final dataset to fine-tune GPT3 using https://beta.openai.com/docs/guides/fine-tuning (`fine_tune`)
 
 ## Application
 
 - My first usage for this parser will be to add an open now filter to the Toilets4London app :D
-- Am therefore using data from https://github.com/toilets4london/Toilets4LondonAPI to validate the parser (see `data/`)
+- Am therefore using data from https://github.com/toilets4london/Toilets4LondonAPI to validate and train the parser
 
 ## Example output
 

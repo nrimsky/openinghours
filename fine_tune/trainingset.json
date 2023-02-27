@@ -1,5 +1,57 @@
 [
     {
+        "prompt": "Mon Wed Every day from 8am 10am then 4pm 9pm, Thur - Sun closed",
+        "completion": "{'Monday': [['08:00', '10:00'], ['16:00', '21:00']], 'Tuesday':  [['08:00', '10:00'], ['16:00', '21:00']], 'Wednesday':  [['08:00', '10:00'], ['16:00', '21:00']], 'Thursday': [], 'Friday': [], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+        "prompt": "Times vary depending on the time of year.  Normally open between 12pm and dusk Mon to Friday and only between May and September.",
+        "completion": "{'Monday': [['12:00', '18:00']], 'Tuesday': [['12:00', '18:00']], 'Wednesday': [['12:00', '18:00']], 'Thursday': [['12:00', '18:00']], 'Friday': [['12:00', '18:00']], 'Saturday': [], 'Sunday': []}"
+    },
+    {
+        "prompt": "8am to dusk Mon to Sunday",
+        "completion": "{'Monday': [['08:00', '18:00']], 'Tuesday': [['08:00', '18:00']], 'Wednesday': [['08:00', '18:00']], 'Thursday': [['08:00', '18:00']], 'Friday': [['08:00', '18:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+        "prompt": "Open during store hours, no code required",
+        "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+        "prompt": "dawn - dusk daily",
+        "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+        "prompt": "Monday  Saturday, 11.30am  11.00pm Sunday, 11am  11pm",
+        "completion": "{'Monday': [['11:30', '23:00']], 'Tuesday': [['11:30', '23:00']], 'Wednesday': [['11:30', '23:00']], 'Thursday': [['11:30', '23:00']], 'Friday': [['11:30', '23:00']], 'Saturday': [['11:30', '23:00']], 'Sunday': [['11:00', '23:00']]}"
+    },
+    {
+        "prompt": "Inside James Leal centre open only on the days centre is open Monday-Friday and when the caf\ufffd is open at weekends",
+        "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+        "prompt": "1 April to 30 SeptemberMonday to Saturday, 8.30am to 7pmSunday and Bank Holidays, 10am to 7pm1 October to 31 MarchMonday to Saturday, 8.30am to 5pmSunday and Bank Holidays, 10am to 5pmChristmas Day, 10am to 2pm",
+        "completion": "{'Monday': [['08:30', '17:00']], 'Tuesday': [['08:30', '17:00']], 'Wednesday': [['08:30', '17:00']], 'Thursday': [['08:30', '17:00']], 'Friday': [['08:30', '17:00']], 'Saturday': [['08:30', '17:00']], 'Sunday': [['10:00', '17:00']]}"
+    },
+    {
+        "prompt": "from Friday evening to Monday morning",
+        "completion": "{'Monday': [['00:00', '09:00']], 'Tuesday': [], 'Wednesday': [], 'Thursday': [], 'Friday': [['18:00', '24:00']], 'Saturday': [['00:00', '24:00']], 'Sunday': [['00:00', '24:00']]}"
+    },
+    {
+        "prompt": "Museum: 10am-5.30pm (Mon-Sun) | Gardens - 7.15am-sunset (Mon-Sat) 8am-sunset (Sun)",
+        "completion": "{'Monday': [['10:00', '17:30']], 'Tuesday': [['10:00', '17:30']], 'Wednesday': [['10:00', '17:30']], 'Thursday': [['10:00', '17:30']], 'Friday': [['10:00', '17:30']], 'Saturday': [['10:00', '17:30']], 'Sunday': [['10:00', '17:30']]}"
+    },
+    {
+        "prompt": "1st Nov\ufffd31st May 9am-6pm. 1st Jun\ufffd31st Oct 9am-8pm, 7 days.",
+        "completion": "{'Monday': [['09:00', '18:00']], 'Tuesday': [['09:00', '18:00']], 'Wednesday': [['09:00', '18:00']], 'Thursday': [['09:00', '18:00']], 'Friday': [['09:00', '18:00']], 'Saturday': [['09:00', '18:00']], 'Sunday': [['09:00', '18:00']]}"
+    },
+    {
+        "prompt": "Usually from 8am to dusk",
+        "completion": "{'Monday': [['08:00', '18:00']], 'Tuesday': [['08:00', '18:00']], 'Wednesday': [['08:00', '18:00']], 'Thursday': [['08:00', '18:00']], 'Friday': [['08:00', '18:00']], 'Saturday': [['08:00', '18:00']], 'Sunday': [['08:00', '18:00']]}"
+    },
+    {
+        "prompt": "Monday -Sunday 7am-4.30am",
+        "completion": "{'Monday': [['07:00', '04:30']], 'Tuesday': [['07:00', '04:30']], 'Wednesday': [['07:00', '04:30']], 'Thursday': [['07:00', '04:30']], 'Friday': [['07:00', '04:30']], 'Saturday': [['07:00', '04:30']], 'Sunday': [['07:00', '04:30']]}"
+    },
+    {
         "prompt": "Monday to Friday 8am to 10pm - Saturday 8am to 4pm - sunday 8am to 6pm",
         "completion": "{'Monday': [['08:00', '22:00']], 'Tuesday': [['08:00', '22:00']], 'Wednesday': [['08:00', '22:00']], 'Thursday': [['08:00', '22:00']], 'Friday': [['08:00', '22:00']], 'Saturday': [['08:00', '16:00']], 'Sunday': [['08:00', '18:00']]}"
     },

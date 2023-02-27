@@ -42,4 +42,4 @@ def main(original_data, labelled_data):
 
 
 if __name__ == "__main__":
-    main("data/T4L-data-export-2023-01-29.json", "labelled.json")
+    main("../generate_data/data/T4L-data-export-2023-01-29.json", "labelled.json")
