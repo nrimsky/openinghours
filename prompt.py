@@ -1,34 +1,11 @@
-import json
-import openai
-import certifi
+start_prompt = """
 
-certifi.where()
+We want to be an API that turns unstructured natural language opening hours text into a structured valid JSON format with keys of days of the weeks, values of hours intervals using an HH:MM format. 
+If there are different opening times for different times of year, use the latest opening and earliest closing times found.
+If the description is vague, use realistic looking opening hours given the information.
+If there is no information given that could be used to parse opening hours, return "INSUFFICIENT INFORMATION".
 
-with open("../key.txt", "r") as keyfile:
-    key = keyfile.read()
-
-openai.api_key = key
-
-
-def generate_text(prompt, model="text-davinci-003"):
-    completions = openai.Completion.create(
-        engine=model,
-        prompt=prompt,
-        max_tokens=1024,
-        n=1,
-        stop=None,
-        temperature=0.5,
-    )
-
-    message = completions.choices[0].text
-    return message.strip()
-
-
-def get_opening_times_json(input_sentence):
-
-    prompt = """
-
-We want to be an API that turns unstructured natural language opening hours text into a structured valid JSON format with keys of days of the weeks, values of hours intervals using an HH:MM format. Here are some examples: 
+Here are some examples: 
 
 "Open weekdays noon to 4 pm, and 8 pm to midnight, and closed on weekends" should return
 {
@@ -85,6 +62,9 @@ We want to be an API that turns unstructured natural language opening hours text
     "Sunday": [["09:00", "11:00"], ["14:00", "19:00"]]
 }
 
+"Open same times as museum" should return
+INSUFFICIENT INFORMATION
+
 "Mon Wed Every day from 8am 10am then 4pm 9pm, Thur - Sun closed" should return
 {
     "Monday": [["08:00", "10:00"], ["16:00", "21:00"]], 
@@ -99,18 +79,3 @@ We want to be an API that turns unstructured natural language opening hours text
 Now convert the input below into the valid JSON format:
 
 """
-
-    full_prompt = prompt + input_sentence
-
-    text = generate_text(full_prompt)
-
-    try:
-        return json.loads(text)
-    except Exception as e:
-        print('Failed to parse response as json', text, e)
-
-    return None
-
-
-if __name__ == "__main__":
-    print(get_opening_times_json("Monday to Friday Midday to 2.30pm, 6pm to 10.30pm, Saturday: 6pm to 11pm, Sunday: 12pm to 10.30pm"))
