@@ -4,6 +4,7 @@ We want to be an API that turns unstructured natural language opening hours text
 If there are different opening times for different times of year, use the latest opening and earliest closing times found.
 If the description is vague, use realistic looking opening hours given the information.
 If there is no information given that could be used to parse opening hours, return "INSUFFICIENT INFORMATION".
+IMPORTANT: "Mon Sat 1-3pm Sun closed" (missing a dash) should be interpreted as "Monday TO Saturday 1 to 3pm, Sunday closed"
 
 Here are some examples: 
 
@@ -29,7 +30,7 @@ Here are some examples:
     "Sunday": [["10:00", "14:00"]]
 }
 
-"Open on wed 11-2 and fri-sun 9-6:30" should return
+"Open on wed 11-2 and fri sun 9-6:30" should return
 {
     "Monday": [],
     "Tuesday": [],
@@ -40,7 +41,7 @@ Here are some examples:
     "Sunday": [["09:00", "18:00"]]
 }
 
-"May-October: 10:00-18:00, November-April: 9.00-17:00" should use the latest opening and earliest closing and return
+"May-October: 10:00-18:00, November-April: 9.00-17:00" should return
 {
     "Monday": [["10:00", "17:00"]],
     "Tuesday": [["10:00", "17:00"]],
@@ -65,14 +66,25 @@ Here are some examples:
 "Open same times as museum" should return
 INSUFFICIENT INFORMATION
 
-"Mon Wed Every day from 8am 10am then 4pm 9pm, Thur - Sun closed" should return
+"Mon Wed Every day from 8:15am 10am then 4pm 9pm, Thur - Sun closed" should return
 {
-    "Monday": [["08:00", "10:00"], ["16:00", "21:00"]], 
-    "Tuesday":  [["08:00", "10:00"], ["16:00", "21:00"]], 
-    "Wednesday":  [["08:00", "10:00"], ["16:00", "21:00"]], 
+    "Monday": [["08:15", "10:00"], ["16:00", "21:00"]], 
+    "Tuesday":  [["08:15", "10:00"], ["16:00", "21:00"]], 
+    "Wednesday":  [["08:15", "10:00"], ["16:00", "21:00"]], 
     "Thursday": [], 
     "Friday": [], 
     "Saturday": [], 
+    "Sunday": []
+}
+
+"May-Sept mon sat 1-8pm sun closed; Other times mon sat 1-6:30pm except sun" should return
+{
+    "Monday": [["13:00", "18:30"]], 
+    "Tuesday":  [["13:00", "18:30"]], 
+    "Wednesday":  [["13:00", "18:30"]], 
+    "Thursday": [["13:00", "18:30"]], 
+    "Friday": [["13:00", "18:30"]], 
+    "Saturday": [["13:00", "18:30"]], 
     "Sunday": []
 }
 

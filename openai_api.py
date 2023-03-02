@@ -17,7 +17,7 @@ def get_gpt_response(full_prompt, model="gpt-3.5-turbo"):
         messages =[{"role": "user", "content": full_prompt}],
         max_tokens=1024,
         n=1,
-        temperature=0.5,
+        temperature=0,
     )
 
     message = completions["choices"][0]["message"]["content"]
@@ -39,4 +39,4 @@ def get_opening_times_json(input_sentence):
 
 
 if __name__ == "__main__":
-    print(get_opening_times_json("1st Nov�31st May 9am-6pm. 1st Jun�31st Oct 9am-8pm, 7 days."))
+    print(get_opening_times_json("Mon Sat 1-3pm Sun closed"))
