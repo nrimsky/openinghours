@@ -1,1 +1,3687 @@
-{"April to September - 9am to 6pm October to March - 9am to 4pm": {"Monday": [["09:00", "16:00"]], "Tuesday": [["09:00", "16:00"]], "Wednesday": [["09:00", "16:00"]], "Thursday": [["09:00", "16:00"]], "Friday": [["09:00", "16:00"]], "Saturday": [["09:00", "18:00"]], "Sunday": [["09:00", "18:00"]]}, "7am-5:30pm": {"Monday": [["07:00", "17:30"]], "Tuesday": [["07:00", "17:30"]], "Wednesday": [["07:00", "17:30"]], "Thursday": [["07:00", "17:30"]], "Friday": [["07:00", "17:30"]], "Saturday": [], "Sunday": []}, "Mon-Fri 05:15-22:00, Sat 06:15-22:00, Sun 06:45-22:00": {"Monday": [["05:15", "22:00"]], "Tuesday": [["05:15", "22:00"]], "Wednesday": [["05:15", "22:00"]], "Thursday": [["05:15", "22:00"]], "Friday": [["05:15", "22:00"]], "Saturday": [["06:15", "22:00"]], "Sunday": [["06:45", "22:00"]]}, "Monday  Saturday, 7am-10pm Sunday, 10am  4pm": {"Monday": [["07:00", "22:00"]], "Tuesday": [], "Wednesday": [], "Thursday": [], "Friday": [], "Saturday": [["07:00", "22:00"]], "Sunday": [["10:00", "16:00"]]}, "see opening times Monday - Saturday": {"Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": [], "Friday": [], "Saturday": []}, "8am-8pm. Wembley Event Days: 8am-12midnight": {"Monday": [["08:00", "20:00"]], "Tuesday": [["08:00", "20:00"]], "Wednesday": [["08:00", "20:00"], ["20:00", "24:00"]], "Thursday": [["08:00", "20:00"]], "Friday": [["08:00", "20:00"]], "Saturday": [["08:00", "20:00"], ["20:00", "24:00"]], "Sunday": [["08:00", "20:00"]]}, "Monday  Friday, 6.30am  4.00pm Saturday, 7am  4pm Sunday, 8am  4pm": {"Monday": [["06:30", "16:00"]], "Tuesday": [["06:30", "16:00"]], "Wednesday": [["06:30", "16:00"]], "Thursday": [["06:30", "16:00"]], "Friday": [["06:30", "16:00"]], "Saturday": [["07:00", "16:00"]], "Sunday": [["08:00", "16:00"]]}, "Mo 10:00-20:00; Tu,Th,Sa 09:30-17:00; We,Fr 09:30-20:00; Su 14:00-17:00": {"Monday": [["10:00", "20:00"]], "Tuesday": [["09:30", "17:00"]], "Wednesday": [["09:30", "20:00"]], "Thursday": [["09:30", "17:00"]], "Friday": [["09:30", "20:00"]], "Saturday": [["09:30", "17:00"]], "Sunday": [["14:00", "17:00"]]}, "8am-8pm. Wembley event days: 8am-12midnight": {"Monday": [["08:00", "20:00"]], "Tuesday": [["08:00", "20:00"]], "Wednesday": [["08:00", "20:00"], ["20:00", "24:00"]], "Thursday": [["08:00", "20:00"]], "Friday": [["08:00", "20:00"]], "Saturday": [["08:00", "20:00"], ["20:00", "24:00"]], "Sunday": [["08:00", "20:00"]]}, "Monday to Friday: 9am to 6pm, Saturday: 9am to 6pm, Sunday 10am to 4pm": {"Monday": [["09:00", "18:00"]], "Tuesday": [["09:00", "18:00"]], "Wednesday": [["09:00", "18:00"]], "Thursday": [["09:00", "18:00"]], "Friday": [["09:00", "18:00"]], "Saturday": [["09:00", "18:00"]], "Sunday": [["10:00", "16:00"]]}, "Monday to Thursday: 11am to 12:30am Friday and Saturday: 11am to 2am Sunday: 12pm to midnight": {"Monday": [["11:00", "00:30"]], "Tuesday": [["11:00", "00:30"]], "Wednesday": [["11:00", "00:30"]], "Thursday": [["11:00", "00:30"]], "Friday": [["11:00", "02:00"]], "Saturday": [["11:00", "02:00"]], "Sunday": [["12:00", "24:00"]]}, "Mon-Fri 08.00 - 23.00, Sat 10.00 - 23.00, Sun 10.00 - 18.00, Bank holiday 10.00 - 18.00": {"Monday": [["08:00", "23:00"]], "Tuesday": [["08:00", "23:00"]], "Wednesday": [["08:00", "23:00"]], "Thursday": [["08:00", "23:00"]], "Friday": [["08:00", "23:00"]], "Saturday": [["10:00", "23:00"]], "Sunday": [["10:00", "18:00"]], "Bank holiday": [["10:00", "18:00"]]}, "Morrisons opening hours": {}, "Mon-Fri 07.00 - 21.00, Sat Closed, Sun Closed, Bank holiday Closed": {"Monday": [["07:00", "21:00"]], "Tuesday": [["07:00", "21:00"]], "Wednesday": [["07:00", "21:00"]], "Thursday": [["07:00", "21:00"]], "Friday": [["07:00", "21:00"]], "Saturday": [], "Sunday": [], "Bank holiday": []}, "Varies - depending on Evelyn Parents' Forum": {"Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": [], "Friday": [], "Saturday": [], "Sunday": []}, "Hours: 9am-8pm Days open: Mon, Tue, Thur, Fri, Sat, Sun": {"Monday": [["09:00", "20:00"]], "Tuesday": [["09:00", "20:00"]], "Wednesday": [], "Thursday": [["09:00", "20:00"]], "Friday": [["09:00", "20:00"]], "Saturday": [["09:00", "20:00"]], "Sunday": [["09:00", "20:00"]]}, "8am to  10:00pm Mon to Fri) and 8am to 6:30pm (Sat and Sunday)": {"Monday": [["08:00", "22:00"]], "Tuesday": [["08:00", "22:00"]], "Wednesday": [["08:00", "22:00"]], "Thursday": [["08:00", "22:00"]], "Friday": [["08:00", "22:00"]], "Saturday": [["08:00", "18:30"]], "Sunday": [["08:00", "18:30"]]}, "Mon-Sun 11am-6pm": {"Monday": [["11:00", "18:00"]], "Tuesday": [["11:00", "18:00"]], "Wednesday": [["11:00", "18:00"]], "Thursday": [["11:00", "18:00"]], "Friday": [["11:00", "18:00"]], "Saturday": [["11:00", "18:00"]], "Sunday": [["11:00", "18:00"]]}, "Monday -Friday 09.00-22.00 Sat/Sun 10.00-18.00": {"Monday": [["09:00", "22:00"]], "Tuesday": [["09:00", "22:00"]], "Wednesday": [["09:00", "22:00"]], "Thursday": [["09:00", "22:00"]], "Friday": [["09:00", "22:00"]], "Saturday": [["10:00", "18:00"]], "Sunday": [["10:00", "18:00"]]}, "Mon-Fri 06:15-19:15, Sat 08:00-17:30, Sun 09:00-15:30": {"Monday": [["06:15", "19:15"]], "Tuesday": [["06:15", "19:15"]], "Wednesday": [["06:15", "19:15"]], "Thursday": [["06:15", "19:15"]], "Friday": [["06:15", "19:15"]], "Saturday": [["08:00", "17:30"]], "Sunday": [["09:00", "15:30"]]}, "Open during hours of business": {}, "Mo-Su 10:00-20:00": {"Monday": [["10:00", "20:00"]], "Tuesday": [["10:00", "20:00"]], "Wednesday": [["10:00", "20:00"]], "Thursday": [["10:00", "20:00"]], "Friday": [["10:00", "20:00"]], "Saturday": [["10:00", "20:00"]], "Sunday": [["10:00", "20:00"]]}, "Parks opening times only with Disabled toilets": {}, "9am - 9pm Mon-Fri, 9.30am - 7pm Sat-Sun": {"Monday": [["09:00", "21:00"]], "Tuesday": [["09:00", "21:00"]], "Wednesday": [["09:00", "21:00"]], "Thursday": [["09:00", "21:00"]], "Friday": [["09:00", "21:00"]], "Saturday": [["09:30", "19:00"]], "Sunday": [["09:30", "19:00"]]}, "see cafe opening times Monday - Sunday": {"Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": [], "Friday": [], "Saturday": [], "Sunday": []}, "8am to 6.30pm Monday to Saturday and 8am to 4pm on Sundays": {"Monday": [["08:00", "18:30"]], "Tuesday": [["08:00", "18:30"]], "Wednesday": [["08:00", "18:30"]], "Thursday": [["08:00", "18:30"]], "Friday": [["08:00", "18:30"]], "Saturday": [["08:00", "18:30"]], "Sunday": [["08:00", "16:00"]]}, "Hours: 9am-6pm Days open: , Tue, Wed, Thur, Fri, Sat": {"Monday": [], "Tuesday": [["09:00", "18:00"]], "Wednesday": [["09:00", "18:00"]], "Thursday": [["09:00", "18:00"]], "Friday": [["09:00", "18:00"]], "Saturday": [["09:00", "18:00"]], "Sunday": []}, "Mon 11:00 - 15:00 Tues-Sat 10:30-16:00 Sun 9:45-12:30": {"Monday": [["11:00", "15:00"]], "Tuesday": [["10:30", "16:00"]], "Wednesday": [["10:30", "16:00"]], "Thursday": [["10:30", "16:00"]], "Friday": [["10:30", "16:00"]], "Saturday": [["10:30", "16:00"]], "Sunday": [["09:45", "12:30"]]}, "Mon-Thu 10am-8pm, Fri-Sat 10am-5pm, Sun 11am-4pm.": {"Monday": [["10:00", "20:00"]], "Tuesday": [["10:00", "20:00"]], "Wednesday": [["10:00", "20:00"]], "Thursday": [["10:00", "20:00"]], "Friday": [["10:00", "17:00"]], "Saturday": [["10:00", "17:00"]], "Sunday": [["11:00", "16:00"]]}, "Summer (April - September) 8am - 6:30pm, Winter (October - March) 8am - 4pm ;": {"Monday": [["08:00", "16:00"]], "Tuesday": [["08:00", "16:00"]], "Wednesday": [["08:00", "16:00"]], "Thursday": [["08:00", "16:00"]], "Friday": [["08:00", "16:00"]], "Saturday": [["08:00", "18:30"]], "Sunday": [["08:00", "18:30"]]}, "Monday-Sunday 7am-8pm": {"Monday": [["07:00", "20:00"]], "Tuesday": [["07:00", "20:00"]], "Wednesday": [["07:00", "20:00"]], "Thursday": [["07:00", "20:00"]], "Friday": [["07:00", "20:00"]], "Saturday": [["07:00", "20:00"]], "Sunday": [["07:00", "20:00"]]}, "Mon-Fri 11.00 - 23.00, Sat 12.00 - 19.00, Sun 12.00 - 22.00, Bank holiday None": {"Monday": [["11:00", "23:00"]], "Tuesday": [["11:00", "23:00"]], "Wednesday": [["11:00", "23:00"]], "Thursday": [["11:00", "23:00"]], "Friday": [["11:00", "23:00"]], "Saturday": [["12:00", "19:00"]], "Sunday": [["12:00", "22:00"]]}, "Tu,Fr 09:30-20:00;  Mo,Sa 09:30-17:00; Th 10:00-17:00; We,Su off": {"Monday": [["09:30", "17:00"]], "Tuesday": [["09:30", "20:00"]], "Wednesday": [], "Thursday": [["10:00", "17:00"]], "Friday": [["09:30", "20:00"]], "Saturday": [["09:30", "17:00"]], "Sunday": []}, "Mo,Th,Sa 09:30-17:00; We 09:30-20:00; Fr 10:00-17:00; Tu,Su off": {"Monday": [["09:30", "17:00"]], "Tuesday": [], "Wednesday": [["09:30", "20:00"]], "Thursday": [["09:30", "17:00"]], "Friday": [["10:00", "17:00"]], "Saturday": [["09:30", "17:00"]], "Sunday": []}, "Store opening hours": {}, "Mon-Fri 11.30 - 23.00, Sat Closed, Sun Closed, Bank holiday None": {"Monday": [["11:30", "23:00"]], "Tuesday": [["11:30", "23:00"]], "Wednesday": [["11:30", "23:00"]], "Thursday": [["11:30", "23:00"]], "Friday": [["11:30", "23:00"]], "Saturday": [], "Sunday": []}, "Radar only - Mo-Sa 06:00-20:00; Su 10:00-17:30": {"Monday": [["06:00", "20:00"]], "Tuesday": [["06:00", "20:00"]], "Wednesday": [["06:00", "20:00"]], "Thursday": [["06:00", "20:00"]], "Friday": [["06:00", "20:00"]], "Saturday": [["06:00", "20:00"]], "Sunday": [["10:00", "17:30"]]}, "Open to public during opening hours": {}, "Mo-Su 07:00-18:00": {"Monday": [["07:00", "18:00"]], "Tuesday": [["07:00", "18:00"]], "Wednesday": [["07:00", "18:00"]], "Thursday": [["07:00", "18:00"]], "Friday": [["07:00", "18:00"]], "Saturday": [["07:00", "18:00"]], "Sunday": [["07:00", "18:00"]]}, "Mon-Fri 11.00 - 23.00, Sat Closed, Sun Closed, Bank holiday Closed": {"Monday": [["11:00", "23:00"]], "Tuesday": [["11:00", "23:00"]], "Wednesday": [["11:00", "23:00"]], "Thursday": [["11:00", "23:00"]], "Friday": [["11:00", "23:00"]], "Saturday": [], "Sunday": [], "Bank holiday": []}, "Sunday to Thursday 5am to 1am, Friday, Saturday 5am to 3am": {"Monday": [["05:00", "01:00"]], "Tuesday": [["05:00", "01:00"]], "Wednesday": [["05:00", "01:00"]], "Thursday": [["05:00", "01:00"]], "Friday": [["05:00", "03:00"]], "Saturday": [["05:00", "03:00"]], "Sunday": [["05:00", "01:00"]]}, "Mon-Fri 09.00 - 23.00, Sat 09.00 - 23.00, Sun Closed, Bank holiday None": {"Monday": [["09:00", "23:00"]], "Tuesday": [["09:00", "23:00"]], "Wednesday": [["09:00", "23:00"]], "Thursday": [["09:00", "23:00"]], "Friday": [["09:00", "23:00"]], "Saturday": [["09:00", "23:00"]], "Sunday": []}, "Times vary depending on the time of year.  Normally open between 12pm and dusk Mon to Sun": {"Monday": [["12:00", "dusk"]], "Tuesday": [["12:00", "dusk"]], "Wednesday": [["12:00", "dusk"]], "Thursday": [["12:00", "dusk"]], "Friday": [["12:00", "dusk"]], "Saturday": [["12:00", "dusk"]], "Sunday": [["12:00", "dusk"]]}, "24/07/2016": {}, "Mo-We 09:00-19:00 ; Th 09:00-20:00 ;  Fr 09:00-19:00 ;  Sa 09:00-17:00 ; Su 10:00-13:00": {"Monday": [["09:00", "19:00"]], "Tuesday": [["09:00", "19:00"]], "Wednesday": [["09:00", "19:00"]], "Thursday": [["09:00", "20:00"]], "Friday": [["09:00", "19:00"]], "Saturday": [["09:00", "17:00"]], "Sunday": [["10:00", "13:00"]]}, "Mon-Fri 07.00 - 00.00, Sat Closed, Sun Closed, Bank holiday Closed": {"Monday": [["07:00", "00:00"]], "Tuesday": [["07:00", "00:00"]], "Wednesday": [["07:00", "00:00"]], "Thursday": [["07:00", "00:00"]], "Friday": [["07:00", "00:00"]], "Saturday": [], "Sunday": [], "Bank holiday": []}, "Everyday 7am to 11pm": {"Monday": [["07:00", "23:00"]], "Tuesday": [["07:00", "23:00"]], "Wednesday": [["07:00", "23:00"]], "Thursday": [["07:00", "23:00"]], "Friday": [["07:00", "23:00"]], "Saturday": [["07:00", "23:00"]], "Sunday": [["07:00", "23:00"]]}, "from Friday evening to Monday morning": {"Monday": [["00:00", "00:00"]], "Tuesday": [["00:00", "00:00"]], "Wednesday": [["00:00", "00:00"]], "Thursday": [["00:00", "00:00"]], "Friday": [["18:00", "24:00"]], "Saturday": [], "Sunday": [["00:00", "08:00"]]}, "11:00 to 17:00": {}, "8am - 7pm": {"Monday": [["08:00", "19:00"]], "Tuesday": [["08:00", "19:00"]], "Wednesday": [["08:00", "19:00"]], "Thursday": [["08:00", "19:00"]], "Friday": [["08:00", "19:00"]], "Saturday": [["08:00", "19:00"]], "Sunday": [["08:00", "19:00"]]}, "Facilities: Male and Female, Monday to Friday: 7am to 3.30pm, Saturday: 7am to 3pm, Sunday closed": {"Monday": [["07:00", "15:30"]], "Tuesday": [["07:00", "15:30"]], "Wednesday": [["07:00", "15:30"]], "Thursday": [["07:00", "15:30"]], "Friday": [["07:00", "15:30"]], "Saturday": [["07:00", "15:00"]], "Sunday": []}, "Mon-Fri 11.00 - 21.30, Sat Closed, Sun Closed, Bank holiday Closed": {"Monday": [["11:00", "21:30"]], "Tuesday": [["11:00", "21:30"]], "Wednesday": [["11:00", "21:30"]], "Thursday": [["11:00", "21:30"]], "Friday": [["11:00", "21:30"]], "Saturday": [], "Sunday": [], "Bank holiday": []}, "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun": {"Monday": [["09:00", "20:00"]], "Tuesday": [["09:00", "20:00"]], "Wednesday": [["09:00", "20:00"]], "Thursday": [["09:00", "20:00"]], "Friday": [["09:00", "20:00"]], "Saturday": [["09:00", "20:00"]], "Sunday": [["09:00", "20:00"]]}, "Mon-Fri 7.30am-7.30pm, Sat 10am-4.45pm.": {"Monday": [["07:30", "19:30"]], "Tuesday": [["07:30", "19:30"]], "Wednesday": [["07:30", "19:30"]], "Thursday": [["07:30", "19:30"]], "Friday": [["07:30", "19:30"]], "Saturday": [["10:00", "16:45"]], "Sunday": []}, "10am-4pm Fri-Sun": {"Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": [], "Friday": [["10:00", "16:00"]], "Saturday": [["10:00", "16:00"]], "Sunday": [["10:00", "16:00"]]}, "24 hours;": {"Monday": [["00:00", "24:00"]], "Tuesday": [["00:00", "24:00"]], "Wednesday": [["00:00", "24:00"]], "Thursday": [["00:00", "24:00"]], "Friday": [["00:00", "24:00"]], "Saturday": [["00:00", "24:00"]], "Sunday": [["00:00", "24:00"]]}, "MONDAY - TUESDAY 11.00 - 22.00 WEDNESDAY - FRIDAY 11.00 - 23.00, Sat Closed, Sun Closed, Bank holiday Closed": {"Monday": [["11:00", "22:00"]], "Tuesday": [["11:00", "22:00"]], "Wednesday": [["11:00", "23:00"]], "Thursday": [["11:00", "23:00"]], "Friday": [["11:00", "23:00"]], "Saturday": [], "Sunday": [], "Bank holiday": []}, "10am-6pm 7 days a week": {"Monday": [["10:00", "18:00"]], "Tuesday": [["10:00", "18:00"]], "Wednesday": [["10:00", "18:00"]], "Thursday": [["10:00", "18:00"]], "Friday": [["10:00", "18:00"]], "Saturday": [["10:00", "18:00"]], "Sunday": [["10:00", "18:00"]]}, "Monday 5pm to 11pm, Tuesday to Thursday Midday to 11pm, Friday to Saturday Midday to Midnight, Sunday Midday to 10.30pm": {"Monday": [["17:00", "23:00"]], "Tuesday": [["12:00", "23:00"]], "Wednesday": [["12:00", "23:00"]], "Thursday": [["12:00", "23:00"]], "Friday": [["12:00", "24:00"]], "Saturday": [["12:00", "24:00"]], "Sunday": [["12:00", "22:30"]]}, "Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su off": {"Monday": [["09:30", "17:00"]], "Tuesday": [["09:30", "20:00"]], "Wednesday": [["09:30", "17:00"]], "Thursday": [["10:00", "20:00"]], "Friday": [["09:30", "17:00"]], "Saturday": [["09:30", "17:00"]], "Sunday": []}, "Daylight hours": {"Monday": [["06:00", "20:00"]], "Tuesday": [["06:00", "20:00"]], "Wednesday": [["06:00", "20:00"]], "Thursday": [["06:00", "20:00"]], "Friday": [["06:00", "20:00"]], "Saturday": [["06:00", "20:00"]], "Sunday": [["06:00", "20:00"]]}, "Parks opening times only With Disabled toilets": {}, "Check store opening hours for times": {}, "Mon-Sun 9am-5pm": {"Monday": [["09:00", "17:00"]], "Tuesday": [["09:00", "17:00"]], "Wednesday": [["09:00", "17:00"]], "Thursday": [["09:00", "17:00"]], "Friday": [["09:00", "17:00"]], "Saturday": [["09:00", "17:00"]], "Sunday": [["09:00", "17:00"]]}, "Mo-Fr 09:30-19:00; Th 09:30-20:00; Sa 09:00-18:00; Su,PH 11:00-17:00": {"Monday": [["09:30", "19:00"]], "Tuesday": [["09:30", "19:00"]], "Wednesday": [["09:30", "19:00"]], "Thursday": [["09:30", "20:00"]], "Friday": [["09:30", "19:00"]], "Saturday": [["09:00", "18:00"]], "Sunday": [["11:00", "17:00"]], "Public Holiday": [["11:00", "17:00"]]}, "Toilets below gound via stairs.1st Nov\u201331st May 9am-6pm. 1st Jun\u201331st Oct  9am-8pm, 7 days.": {"Monday": [["09:00", "18:00"]], "Tuesday": [["09:00", "18:00"]], "Wednesday": [["09:00", "18:00"]], "Thursday": [["09:00", "18:00"]], "Friday": [["09:00", "18:00"]], "Saturday": [["09:00", "18:00"]], "Sunday": [["09:00", "18:00"]]}, "Tue: 10am-5pm | Wed, Thu: 10am-7pm | Sat: 10am-5pm": {"Monday": [], "Tuesday": [["10:00", "17:00"]], "Wednesday": [["10:00", "19:00"]], "Thursday": [["10:00", "19:00"]], "Friday": [], "Saturday": [["10:00", "17:00"]], "Sunday": []}, "Monday to Saturday: 7am to 6pm": {"Monday": [["07:00", "18:00"]], "Tuesday": [["07:00", "18:00"]], "Wednesday": [["07:00", "18:00"]], "Thursday": [["07:00", "18:00"]], "Friday": [["07:00", "18:00"]], "Saturday": [["07:00", "18:00"]], "Sunday": []}, "Mon to Sun 9am - 5pm": {"Monday": [["09:00", "17:00"]], "Tuesday": [["09:00", "17:00"]], "Wednesday": [["09:00", "17:00"]], "Thursday": [["09:00", "17:00"]], "Friday": [["09:00", "17:00"]], "Saturday": [["09:00", "17:00"]], "Sunday": [["09:00", "17:00"]]}, "Facilities: 1 unisex toilet located in Offices, Monday to Thursday: 9am to 12 pm, 1 to 3pm, Friday: 9.30am to 12 noon": {"Monday": [["09:00", "12:00"], ["13:00", "15:00"]], "Tuesday": [["09:00", "12:00"], ["13:00", "15:00"]], "Wednesday": [["09:00", "12:00"], ["13:00", "15:00"]], "Thursday": [["09:00", "12:00"], ["13:00", "15:00"]], "Friday": [["09:30", "12:00"]], "Saturday": [], "Sunday": []}, "Monday to Friday 8am to 10pm - Saturday 8am to 4pm - sunday 8am to 6pm": {"Monday": [["08:00", "22:00"]], "Tuesday": [["08:00", "22:00"]], "Wednesday": [["08:00", "22:00"]], "Thursday": [["08:00", "22:00"]], "Friday": [["08:00", "22:00"]], "Saturday": [["08:00", "16:00"]], "Sunday": [["08:00", "18:00"]]}, "9am to around 4.30pm, longer hours in summer": {"Monday": [["09:00", "16:30"]], "Tuesday": [["09:00", "16:30"]], "Wednesday": [["09:00", "16:30"]], "Thursday": [["09:00", "16:30"]], "Friday": [["09:00", "16:30"]], "Saturday": [["09:00", "16:30"]], "Sunday": [["09:00", "16:30"]]}, "Mo-Su 08:00-18:00": {"Monday": [["08:00", "18:00"]], "Tuesday": [["08:00", "18:00"]], "Wednesday": [["08:00", "18:00"]], "Thursday": [["08:00", "18:00"]], "Friday": [["08:00", "18:00"]], "Saturday": [["08:00", "18:00"]], "Sunday": [["08:00", "18:00"]]}, "Mon, Tue, Sat: 7am-7pm | Wed, Thu, Fri: 7am-8pm | Sun: 10am-4pm": {"Monday": [["07:00", "19:00"]], "Tuesday": [["07:00", "19:00"]], "Wednesday": [["07:00", "20:00"]], "Thursday": [["07:00", "20:00"]], "Friday": [["07:00", "20:00"]], "Saturday": [["07:00", "19:00"]], "Sunday": [["10:00", "16:00"]]}, "MON 07:00-22:00 , TUE 07:00-22:00 , WED 07:00-22:00 , THUR 07:00-22:00 , FRI 07:00-22:00 , SAT 07:00-22:00 , SUN 10:00-16:00": {"Monday": [["07:00", "22:00"]], "Tuesday": [["07:00", "22:00"]], "Wednesday": [["07:00", "22:00"]], "Thursday": [["07:00", "22:00"]], "Friday": [["07:00", "22:00"]], "Saturday": [["07:00", "22:00"]], "Sunday": [["10:00", "16:00"]]}, "MON-SAT 0900-1900 SUN 1100-1700": {"Monday": [["09:00", "19:00"]], "Tuesday": [["09:00", "19:00"]], "Wednesday": [["09:00", "19:00"]], "Thursday": [["09:00", "19:00"]], "Friday": [["09:00", "19:00"]], "Saturday": [["09:00", "19:00"]], "Sunday": [["11:00", "17:00"]]}, "9am-9pm (Mon-Fri), 9am-5pm (Sat-Sun)": {"Monday": [["09:00", "21:00"]], "Tuesday": [["09:00", "21:00"]], "Wednesday": [["09:00", "21:00"]], "Thursday": [["09:00", "21:00"]], "Friday": [["09:00", "21:00"]], "Saturday": [["09:00", "17:00"]], "Sunday": [["09:00", "17:00"]]}, "Mon-Sun 4.30am-00.30am.": {"Monday": [["04:30", "00:30"]], "Tuesday": [["04:30", "00:30"]], "Wednesday": [["04:30", "00:30"]], "Thursday": [["04:30", "00:30"]], "Friday": [["04:30", "00:30"]], "Saturday": [["04:30", "00:30"]], "Sunday": [["04:30", "00:30"]]}, "Mon 9.30-1pm Tues/ Thurs 9.20-8pm Sat 11-5pm": {"Monday": [["09:30", "13:00"]], "Tuesday": [["09:20", "20:00"]], "Wednesday": [], "Thursday": [["09:20", "20:00"]], "Friday": [], "Saturday": [["11:00", "17:00"]], "Sunday": []}, "7.30am to 11.30pm Monday to Saturday": {"Monday": [["07:30", "23:30"]], "Tuesday": [["07:30", "23:30"]], "Wednesday": [["07:30", "23:30"]], "Thursday": [["07:30", "23:30"]], "Friday": [["07:30", "23:30"]], "Saturday": [["07:30", "23:30"]], "Sunday": []}, "Mon, Tue, Thu, Fri: 9am-6pm | Wed: 9am-7pm | Sat: 9am-5pm | Sun: 10am-4pm": {"Monday": [["09:00", "18:00"]], "Tuesday": [["09:00", "18:00"]], "Wednesday": [["09:00", "19:00"]], "Thursday": [["09:00", "18:00"]], "Friday": [["09:00", "18:00"]], "Saturday": [["09:00", "17:00"]], "Sunday": [["10:00", "16:00"]]}, "Monday to Friday: 7am to 9am Saturday and Sunday: 9am to 3pm": {"Monday": [["07:00", "09:00"]], "Tuesday": [["07:00", "09:00"]], "Wednesday": [["07:00", "09:00"]], "Thursday": [["07:00", "09:00"]], "Friday": [["07:00", "09:00"]], "Saturday": [["09:00", "15:00"]], "Sunday": [["09:00", "15:00"]]}, "8am\u20139pm": {"Monday": [["08:00", "21:00"]], "Tuesday": [["08:00", "21:00"]], "Wednesday": [["08:00", "21:00"]], "Thursday": [["08:00", "21:00"]], "Friday": [["08:00", "21:00"]], "Saturday": [["08:00", "21:00"]], "Sunday": [["08:00", "21:00"]]}, "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)": {"Monday": [["09:00", "19:00"]], "Tuesday": [["09:00", "19:00"]], "Wednesday": [["09:00", "19:00"]], "Thursday": [["09:00", "19:00"]], "Friday": [["09:00", "19:00"]], "Saturday": [["09:00", "17:00"]], "Sunday": [["12:00", "16:00"]]}, "Mon-Sat: 6am-12am | Sun: 11am-5pm": {"Monday": [["06:00", "00:00"]], "Tuesday": [["06:00", "00:00"]], "Wednesday": [["06:00", "00:00"]], "Thursday": [["06:00", "00:00"]], "Friday": [["06:00", "00:00"]], "Saturday": [["06:00", "00:00"]], "Sunday": [["11:00", "17:00"]]}, "MONDAY - WEDNESDAY 11.00 - 23.00, THURSDAY 11.00 - 00.00, FRIDAY 11.00 - 01.00, Sat 12.00 - 18.00, Sun Closed, Bank holiday Closed": {"Monday": [["11:00", "23:00"]], "Tuesday": [["11:00", "23:00"]], "Wednesday": [["11:00", "23:00"]], "Thursday": [["11:00", "00:00"]], "Friday": [["11:00", "01:00"]], "Saturday": [["12:00", "18:00"]], "Sunday": []}, "08:00 to 18:00": {"Monday": [["08:00", "18:00"]], "Tuesday": [["08:00", "18:00"]], "Wednesday": [["08:00", "18:00"]], "Thursday": [["08:00", "18:00"]], "Friday": [["08:00", "18:00"]], "Saturday": [["08:00", "18:00"]], "Sunday": [["08:00", "18:00"]]}, "Mon-Fri 11.00 - 23.00, Sat Closed, Sun Closed, Bank holiday None": {"Monday": [["11:00", "23:00"]], "Tuesday": [["11:00", "23:00"]], "Wednesday": [["11:00", "23:00"]], "Thursday": [["11:00", "23:00"]], "Friday": [["11:00", "23:00"]], "Saturday": [], "Sunday": []}, "Monday to Friday: 9am to 7pm, Saturday: 9am to 6pm, Sunday: Midday to 4pm": {"Monday": [["09:00", "19:00"]], "Tuesday": [["09:00", "19:00"]], "Wednesday": [["09:00", "19:00"]], "Thursday": [["09:00", "19:00"]], "Friday": [["09:00", "19:00"]], "Saturday": [["09:00", "18:00"]], "Sunday": [["12:00", "16:00"]]}, "Monday  Saturday, 8am-5pm": {"Monday": [["08:00", "17:00"]], "Tuesday": [], "Wednesday": [], "Thursday": [], "Friday": [], "Saturday": [["08:00", "17:00"]], "Sunday": []}, "Facilities: Unisex, Monday to Tuesday 9am to 3pm, Wednesday to Sunday 9am to 10pm": {"Monday": [["09:00", "15:00"]], "Tuesday": [["09:00", "15:00"]], "Wednesday": [["09:00", "22:00"]], "Thursday": [["09:00", "22:00"]], "Friday": [["09:00", "22:00"]], "Saturday": [["09:00", "22:00"]], "Sunday": [["09:00", "22:00"]]}, "MON 08:00-21:00 , TUE 08:00-21:00 , WED 08:00-21:00 , THUR 08:00-22:00 , FRI 08:00-22:00 , SAT 07:30-21:00 , SUN 10:00-16:00": {"Monday": [["08:00", "21:00"]], "Tuesday": [["08:00", "21:00"]], "Wednesday": [["08:00", "21:00"]], "Thursday": [["08:00", "22:00"]], "Friday": [["08:00", "22:00"]], "Saturday": [["07:30", "21:00"]], "Sunday": [["10:00", "16:00"]]}, "11am\u20138:45pm Mon-Fri, 10am\u20138:45pm Sat/Sun": {"Monday": [["11:00", "20:45"]], "Tuesday": [["11:00", "20:45"]], "Wednesday": [["11:00", "20:45"]], "Thursday": [["11:00", "20:45"]], "Friday": [["11:00", "20:45"]], "Saturday": [["10:00", "20:45"]], "Sunday": [["10:00", "20:45"]]}, ", Sunday to Monday Midday to 11pm, Tuesday to Thursday Midday to Midnight, Friday Midday to 1am": {"Monday": [["12:00", "23:00"]], "Tuesday": [["12:00", "24:00"]], "Wednesday": [["12:00", "24:00"]], "Thursday": [["12:00", "24:00"]], "Friday": [["12:00", "01:00"]], "Saturday": [], "Sunday": [["12:00", "23:00"]]}, "Monday to Friday: 24hrs Saturday: Until midnight Sunday: 10am to 4pm": {"Monday": [["00:00", "24:00"]], "Tuesday": [["00:00", "24:00"]], "Wednesday": [["00:00", "24:00"]], "Thursday": [["00:00", "24:00"]], "Friday": [["00:00", "24:00"]], "Saturday": [["00:00", "24:00"], ["00:00", "24:00"]], "Sunday": [["10:00", "16:00"]]}, "Monday-Sunday, 7am  7pm": {"Monday": [["07:00", "19:00"]], "Tuesday": [["07:00", "19:00"]], "Wednesday": [["07:00", "19:00"]], "Thursday": [["07:00", "19:00"]], "Friday": [["07:00", "19:00"]], "Saturday": [["07:00", "19:00"]], "Sunday": [["07:00", "19:00"]]}, "Mon-Fri 9.30am-4.30pm": {"Monday": [["09:30", "16:30"]], "Tuesday": [["09:30", "16:30"]], "Wednesday": [["09:30", "16:30"]], "Thursday": [["09:30", "16:30"]], "Friday": [["09:30", "16:30"]], "Saturday": [], "Sunday": []}, "April to September - 8.45am to 6pm October to March - 9am to 4pm": {"Monday": [["09:00", "16:00"]], "Tuesday": [["09:00", "16:00"]], "Wednesday": [["09:00", "16:00"]], "Thursday": [["09:00", "16:00"]], "Friday": [["09:00", "16:00"]], "Saturday": [["08:45", "18:00"]], "Sunday": [["08:45", "18:00"]]}, "Sunday to Thursday: Midday to 2am, Friday to Saturday: Midday to 4am": {"Monday": [["12:00", "02:00"]], "Tuesday": [["12:00", "02:00"]], "Wednesday": [["12:00", "02:00"]], "Thursday": [["12:00", "02:00"]], "Friday": [["12:00", "04:00"]], "Saturday": [["12:00", "04:00"]], "Sunday": [["12:00", "02:00"]]}, "1st Nov\u201331st May 9am-6pm. 1st Jun\u201331st Oct  9am-8pm, 7 days.": {"Monday": [["09:00", "18:00"]], "Tuesday": [["09:00", "18:00"]], "Wednesday": [["09:00", "18:00"]], "Thursday": [["09:00", "18:00"]], "Friday": [["09:00", "18:00"]], "Saturday": [["09:00", "20:00"]], "Sunday": [["09:00", "20:00"]]}}
+{
+    "April to September - 9am to 6pm October to March - 9am to 4pm": {
+        "Monday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ]
+    },
+    "7am-5:30pm": {
+        "Monday": [
+            [
+                "07:00",
+                "17:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "17:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "17:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "17:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "17:30"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Mon-Fri 05:15-22:00, Sat 06:15-22:00, Sun 06:45-22:00": {
+        "Monday": [
+            [
+                "05:15",
+                "22:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "05:15",
+                "22:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "05:15",
+                "22:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "05:15",
+                "22:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "05:15",
+                "22:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "06:15",
+                "22:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "06:45",
+                "22:00"
+            ]
+        ]
+    },
+    "Monday  Saturday, 7am-10pm Sunday, 10am  4pm": {
+        "Monday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "see opening times Monday - Saturday": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": []
+    },
+    "8am-8pm. Wembley Event Days: 8am-12midnight": {
+        "Monday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "20:00"
+            ],
+            [
+                "20:00",
+                "24:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "20:00"
+            ],
+            [
+                "20:00",
+                "24:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ]
+    },
+    "Monday  Friday, 6.30am  4.00pm Saturday, 7am  4pm Sunday, 8am  4pm": {
+        "Monday": [
+            [
+                "06:30",
+                "16:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "06:30",
+                "16:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "06:30",
+                "16:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "06:30",
+                "16:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "06:30",
+                "16:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "16:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Mo 10:00-20:00; Tu,Th,Sa 09:30-17:00; We,Fr 09:30-20:00; Su 14:00-17:00": {
+        "Monday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:30",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:30",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "14:00",
+                "17:00"
+            ]
+        ]
+    },
+    "8am-8pm. Wembley event days: 8am-12midnight": {
+        "Monday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "20:00"
+            ],
+            [
+                "20:00",
+                "24:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "20:00"
+            ],
+            [
+                "20:00",
+                "24:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "20:00"
+            ]
+        ]
+    },
+    "Monday to Friday: 9am to 6pm, Saturday: 9am to 6pm, Sunday 10am to 4pm": {
+        "Monday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Monday to Thursday: 11am to 12:30am Friday and Saturday: 11am to 2am Sunday: 12pm to midnight": {
+        "Monday": [
+            [
+                "11:00",
+                "00:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "00:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "00:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "00:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "02:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "11:00",
+                "02:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "12:00",
+                "24:00"
+            ]
+        ]
+    },
+    "Mon-Fri 08.00 - 23.00, Sat 10.00 - 23.00, Sun 10.00 - 18.00, Bank holiday 10.00 - 18.00": {
+        "Monday": [
+            [
+                "08:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "23:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "23:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Bank holiday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Morrisons opening hours": {},
+    "Mon-Fri 07.00 - 21.00, Sat Closed, Sun Closed, Bank holiday Closed": {
+        "Monday": [
+            [
+                "07:00",
+                "21:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "21:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "21:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "21:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "21:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": [],
+        "Bank holiday": []
+    },
+    "Varies - depending on Evelyn Parents' Forum": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Hours: 9am-8pm Days open: Mon, Tue, Thur, Fri, Sat, Sun": {
+        "Monday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ]
+    },
+    "8am to  10:00pm Mon to Fri) and 8am to 6:30pm (Sat and Sunday)": {
+        "Monday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ]
+    },
+    "Mon-Sun 11am-6pm": {
+        "Monday": [
+            [
+                "11:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "11:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "11:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Monday -Friday 09.00-22.00 Sat/Sun 10.00-18.00": {
+        "Monday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Mon-Fri 06:15-19:15, Sat 08:00-17:30, Sun 09:00-15:30": {
+        "Monday": [
+            [
+                "06:15",
+                "19:15"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "06:15",
+                "19:15"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "06:15",
+                "19:15"
+            ]
+        ],
+        "Thursday": [
+            [
+                "06:15",
+                "19:15"
+            ]
+        ],
+        "Friday": [
+            [
+                "06:15",
+                "19:15"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "17:30"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "15:30"
+            ]
+        ]
+    },
+    "Open during hours of business": {},
+    "Mo-Su 10:00-20:00": {
+        "Monday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ]
+    },
+    "Parks opening times only with Disabled toilets": {},
+    "9am - 9pm Mon-Fri, 9.30am - 7pm Sat-Sun": {
+        "Monday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:30",
+                "19:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:30",
+                "19:00"
+            ]
+        ]
+    },
+    "see cafe opening times Monday - Sunday": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "8am to 6.30pm Monday to Saturday and 8am to 4pm on Sundays": {
+        "Monday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Hours: 9am-6pm Days open: , Tue, Wed, Thur, Fri, Sat": {
+        "Monday": [],
+        "Tuesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Mon 11:00 - 15:00 Tues-Sat 10:30-16:00 Sun 9:45-12:30": {
+        "Monday": [
+            [
+                "11:00",
+                "15:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "10:30",
+                "16:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "10:30",
+                "16:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "10:30",
+                "16:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "10:30",
+                "16:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:30",
+                "16:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:45",
+                "12:30"
+            ]
+        ]
+    },
+    "Mon-Thu 10am-8pm, Fri-Sat 10am-5pm, Sun 11am-4pm.": {
+        "Monday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "10:00",
+                "17:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "11:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Summer (April - September) 8am - 6:30pm, Winter (October - March) 8am - 4pm ;": {
+        "Monday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "18:30"
+            ]
+        ]
+    },
+    "Monday-Sunday 7am-8pm": {
+        "Monday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ]
+    },
+    "Mon-Fri 11.00 - 23.00, Sat 12.00 - 19.00, Sun 12.00 - 22.00, Bank holiday None": {
+        "Monday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "12:00",
+                "19:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "12:00",
+                "22:00"
+            ]
+        ]
+    },
+    "Tu,Fr 09:30-20:00;  Mo,Sa 09:30-17:00; Th 10:00-17:00; We,Su off": {
+        "Monday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:30",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            [
+                "10:00",
+                "17:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:30",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Mo,Th,Sa 09:30-17:00; We 09:30-20:00; Fr 10:00-17:00; Tu,Su off": {
+        "Monday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            [
+                "09:30",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "10:00",
+                "17:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Store opening hours": {},
+    "Mon-Fri 11.30 - 23.00, Sat Closed, Sun Closed, Bank holiday None": {
+        "Monday": [
+            [
+                "11:30",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:30",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:30",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:30",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:30",
+                "23:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Radar only - Mo-Sa 06:00-20:00; Su 10:00-17:30": {
+        "Monday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "17:30"
+            ]
+        ]
+    },
+    "Open to public during opening hours": {},
+    "Mo-Su 07:00-18:00": {
+        "Monday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Mon-Fri 11.00 - 23.00, Sat Closed, Sun Closed, Bank holiday Closed": {
+        "Monday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": [],
+        "Bank holiday": []
+    },
+    "Sunday to Thursday 5am to 1am, Friday, Saturday 5am to 3am": {
+        "Monday": [
+            [
+                "05:00",
+                "01:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "05:00",
+                "01:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "05:00",
+                "01:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "05:00",
+                "01:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "05:00",
+                "03:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "05:00",
+                "03:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "05:00",
+                "01:00"
+            ]
+        ]
+    },
+    "Mon-Fri 09.00 - 23.00, Sat 09.00 - 23.00, Sun Closed, Bank holiday None": {
+        "Monday": [
+            [
+                "09:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "23:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "23:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Times vary depending on the time of year.  Normally open between 12pm and dusk Mon to Sun": {
+        "Monday": [
+            [
+                "12:00",
+                "dusk"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "12:00",
+                "dusk"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "12:00",
+                "dusk"
+            ]
+        ],
+        "Thursday": [
+            [
+                "12:00",
+                "dusk"
+            ]
+        ],
+        "Friday": [
+            [
+                "12:00",
+                "dusk"
+            ]
+        ],
+        "Saturday": [
+            [
+                "12:00",
+                "dusk"
+            ]
+        ],
+        "Sunday": [
+            [
+                "12:00",
+                "dusk"
+            ]
+        ]
+    },
+    "24/07/2016": {},
+    "Mo-We 09:00-19:00 ; Th 09:00-20:00 ;  Fr 09:00-19:00 ;  Sa 09:00-17:00 ; Su 10:00-13:00": {
+        "Monday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "13:00"
+            ]
+        ]
+    },
+    "Mon-Fri 07.00 - 00.00, Sat Closed, Sun Closed, Bank holiday Closed": {
+        "Monday": [
+            [
+                "07:00",
+                "00:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "00:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "00:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "00:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "00:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": [],
+        "Bank holiday": []
+    },
+    "Everyday 7am to 11pm": {
+        "Monday": [
+            [
+                "07:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "23:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "23:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "07:00",
+                "23:00"
+            ]
+        ]
+    },
+    "from Friday evening to Monday morning": {
+        "Monday": [
+            [
+                "00:00",
+                "00:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "00:00",
+                "00:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "00:00",
+                "00:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "00:00",
+                "00:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "18:00",
+                "24:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": [
+            [
+                "00:00",
+                "08:00"
+            ]
+        ]
+    },
+    "11:00 to 17:00": {},
+    "8am - 7pm": {
+        "Monday": [
+            [
+                "08:00",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "19:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "19:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "19:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "19:00"
+            ]
+        ]
+    },
+    "Facilities: Male and Female, Monday to Friday: 7am to 3.30pm, Saturday: 7am to 3pm, Sunday closed": {
+        "Monday": [
+            [
+                "07:00",
+                "15:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "15:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "15:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "15:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "15:30"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "15:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Mon-Fri 11.00 - 21.30, Sat Closed, Sun Closed, Bank holiday Closed": {
+        "Monday": [
+            [
+                "11:00",
+                "21:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "21:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "21:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "21:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "21:30"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": [],
+        "Bank holiday": []
+    },
+    "Hours: 9am-8pm Days open: Mon, Tue, Wed, Thur, Fri, Sat, Sun": {
+        "Monday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ]
+    },
+    "Mon-Fri 7.30am-7.30pm, Sat 10am-4.45pm.": {
+        "Monday": [
+            [
+                "07:30",
+                "19:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:30",
+                "19:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:30",
+                "19:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:30",
+                "19:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:30",
+                "19:30"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "16:45"
+            ]
+        ],
+        "Sunday": []
+    },
+    "10am-4pm Fri-Sun": {
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "24 hours;": {
+        "Monday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ]
+    },
+    "MONDAY - TUESDAY 11.00 - 22.00 WEDNESDAY - FRIDAY 11.00 - 23.00, Sat Closed, Sun Closed, Bank holiday Closed": {
+        "Monday": [
+            [
+                "11:00",
+                "22:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "22:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": [],
+        "Bank holiday": []
+    },
+    "10am-6pm 7 days a week": {
+        "Monday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Monday 5pm to 11pm, Tuesday to Thursday Midday to 11pm, Friday to Saturday Midday to Midnight, Sunday Midday to 10.30pm": {
+        "Monday": [
+            [
+                "17:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "12:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "12:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "12:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "12:00",
+                "24:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "12:00",
+                "24:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "12:00",
+                "22:30"
+            ]
+        ]
+    },
+    "Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su off": {
+        "Monday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:30",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "10:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:30",
+                "17:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Daylight hours": {
+        "Monday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "06:00",
+                "20:00"
+            ]
+        ]
+    },
+    "Parks opening times only With Disabled toilets": {},
+    "Check store opening hours for times": {},
+    "Mon-Sun 9am-5pm": {
+        "Monday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ]
+    },
+    "Mo-Fr 09:30-19:00; Th 09:30-20:00; Sa 09:00-18:00; Su,PH 11:00-17:00": {
+        "Monday": [
+            [
+                "09:30",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:30",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:30",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:30",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:30",
+                "19:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "11:00",
+                "17:00"
+            ]
+        ],
+        "Public Holiday": [
+            [
+                "11:00",
+                "17:00"
+            ]
+        ]
+    },
+    "Toilets below gound via stairs.1st Nov\u201331st May 9am-6pm. 1st Jun\u201331st Oct  9am-8pm, 7 days.": {
+        "Monday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Tue: 10am-5pm | Wed, Thu: 10am-7pm | Sat: 10am-5pm": {
+        "Monday": [],
+        "Tuesday": [
+            [
+                "10:00",
+                "17:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "10:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "10:00",
+                "19:00"
+            ]
+        ],
+        "Friday": [],
+        "Saturday": [
+            [
+                "10:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Monday to Saturday: 7am to 6pm": {
+        "Monday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Mon to Sun 9am - 5pm": {
+        "Monday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ]
+    },
+    "Facilities: 1 unisex toilet located in Offices, Monday to Thursday: 9am to 12 pm, 1 to 3pm, Friday: 9.30am to 12 noon": {
+        "Monday": [
+            [
+                "09:00",
+                "12:00"
+            ],
+            [
+                "13:00",
+                "15:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "12:00"
+            ],
+            [
+                "13:00",
+                "15:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "12:00"
+            ],
+            [
+                "13:00",
+                "15:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "12:00"
+            ],
+            [
+                "13:00",
+                "15:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:30",
+                "12:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Monday to Friday 8am to 10pm - Saturday 8am to 4pm - sunday 8am to 6pm": {
+        "Monday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "16:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ]
+    },
+    "9am to around 4.30pm, longer hours in summer": {
+        "Monday": [
+            [
+                "09:00",
+                "16:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "16:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "16:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "16:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "16:30"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "16:30"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "16:30"
+            ]
+        ]
+    },
+    "Mo-Su 08:00-18:00": {
+        "Monday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Mon, Tue, Sat: 7am-7pm | Wed, Thu, Fri: 7am-8pm | Sun: 10am-4pm": {
+        "Monday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "20:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "MON 07:00-22:00 , TUE 07:00-22:00 , WED 07:00-22:00 , THUR 07:00-22:00 , FRI 07:00-22:00 , SAT 07:00-22:00 , SUN 10:00-16:00": {
+        "Monday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "22:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "MON-SAT 0900-1900 SUN 1100-1700": {
+        "Monday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "11:00",
+                "17:00"
+            ]
+        ]
+    },
+    "9am-9pm (Mon-Fri), 9am-5pm (Sat-Sun)": {
+        "Monday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "21:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ]
+    },
+    "Mon-Sun 4.30am-00.30am.": {
+        "Monday": [
+            [
+                "04:30",
+                "00:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "04:30",
+                "00:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "04:30",
+                "00:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "04:30",
+                "00:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "04:30",
+                "00:30"
+            ]
+        ],
+        "Saturday": [
+            [
+                "04:30",
+                "00:30"
+            ]
+        ],
+        "Sunday": [
+            [
+                "04:30",
+                "00:30"
+            ]
+        ]
+    },
+    "Mon 9.30-1pm Tues/ Thurs 9.20-8pm Sat 11-5pm": {
+        "Monday": [
+            [
+                "09:30",
+                "13:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:20",
+                "20:00"
+            ]
+        ],
+        "Wednesday": [],
+        "Thursday": [
+            [
+                "09:20",
+                "20:00"
+            ]
+        ],
+        "Friday": [],
+        "Saturday": [
+            [
+                "11:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "7.30am to 11.30pm Monday to Saturday": {
+        "Monday": [
+            [
+                "07:30",
+                "23:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:30",
+                "23:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:30",
+                "23:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:30",
+                "23:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:30",
+                "23:30"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:30",
+                "23:30"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Mon, Tue, Thu, Fri: 9am-6pm | Wed: 9am-7pm | Sat: 9am-5pm | Sun: 10am-4pm": {
+        "Monday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Monday to Friday: 7am to 9am Saturday and Sunday: 9am to 3pm": {
+        "Monday": [
+            [
+                "07:00",
+                "09:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "09:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "09:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "09:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "09:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "15:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "15:00"
+            ]
+        ]
+    },
+    "8am\u20139pm": {
+        "Monday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ]
+    },
+    "9am-7pm (Mon-Fri), 9am-5pm (Sat) & 12pm-4pm (sun)": {
+        "Monday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "12:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Mon-Sat: 6am-12am | Sun: 11am-5pm": {
+        "Monday": [
+            [
+                "06:00",
+                "00:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "06:00",
+                "00:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "06:00",
+                "00:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "06:00",
+                "00:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "06:00",
+                "00:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "06:00",
+                "00:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "11:00",
+                "17:00"
+            ]
+        ]
+    },
+    "MONDAY - WEDNESDAY 11.00 - 23.00, THURSDAY 11.00 - 00.00, FRIDAY 11.00 - 01.00, Sat 12.00 - 18.00, Sun Closed, Bank holiday Closed": {
+        "Monday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "00:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "01:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "12:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "08:00 to 18:00": {
+        "Monday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:00",
+                "18:00"
+            ]
+        ]
+    },
+    "Mon-Fri 11.00 - 23.00, Sat Closed, Sun Closed, Bank holiday None": {
+        "Monday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "23:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "Monday to Friday: 9am to 7pm, Saturday: 9am to 6pm, Sunday: Midday to 4pm": {
+        "Monday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "19:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "12:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Monday  Saturday, 8am-5pm": {
+        "Monday": [
+            [
+                "08:00",
+                "17:00"
+            ]
+        ],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": [],
+        "Saturday": [
+            [
+                "08:00",
+                "17:00"
+            ]
+        ],
+        "Sunday": []
+    },
+    "Facilities: Unisex, Monday to Tuesday 9am to 3pm, Wednesday to Sunday 9am to 10pm": {
+        "Monday": [
+            [
+                "09:00",
+                "15:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "15:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "22:00"
+            ]
+        ]
+    },
+    "MON 08:00-21:00 , TUE 08:00-21:00 , WED 08:00-21:00 , THUR 08:00-22:00 , FRI 08:00-22:00 , SAT 07:30-21:00 , SUN 10:00-16:00": {
+        "Monday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "08:00",
+                "21:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "08:00",
+                "22:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:30",
+                "21:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "11am\u20138:45pm Mon-Fri, 10am\u20138:45pm Sat/Sun": {
+        "Monday": [
+            [
+                "11:00",
+                "20:45"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "11:00",
+                "20:45"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "11:00",
+                "20:45"
+            ]
+        ],
+        "Thursday": [
+            [
+                "11:00",
+                "20:45"
+            ]
+        ],
+        "Friday": [
+            [
+                "11:00",
+                "20:45"
+            ]
+        ],
+        "Saturday": [
+            [
+                "10:00",
+                "20:45"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "20:45"
+            ]
+        ]
+    },
+    ", Sunday to Monday Midday to 11pm, Tuesday to Thursday Midday to Midnight, Friday Midday to 1am": {
+        "Monday": [
+            [
+                "12:00",
+                "23:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "12:00",
+                "24:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "12:00",
+                "24:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "12:00",
+                "24:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "12:00",
+                "01:00"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": [
+            [
+                "12:00",
+                "23:00"
+            ]
+        ]
+    },
+    "Monday to Friday: 24hrs Saturday: Until midnight Sunday: 10am to 4pm": {
+        "Monday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "00:00",
+                "24:00"
+            ],
+            [
+                "00:00",
+                "24:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "10:00",
+                "16:00"
+            ]
+        ]
+    },
+    "Monday-Sunday, 7am  7pm": {
+        "Monday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "07:00",
+                "19:00"
+            ]
+        ]
+    },
+    "Mon-Fri 9.30am-4.30pm": {
+        "Monday": [
+            [
+                "09:30",
+                "16:30"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:30",
+                "16:30"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:30",
+                "16:30"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:30",
+                "16:30"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:30",
+                "16:30"
+            ]
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "April to September - 8.45am to 6pm October to March - 9am to 4pm": {
+        "Monday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "16:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "08:45",
+                "18:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "08:45",
+                "18:00"
+            ]
+        ]
+    },
+    "Sunday to Thursday: Midday to 2am, Friday to Saturday: Midday to 4am": {
+        "Monday": [
+            [
+                "12:00",
+                "02:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "12:00",
+                "02:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "12:00",
+                "02:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "12:00",
+                "02:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "12:00",
+                "04:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "12:00",
+                "04:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "12:00",
+                "02:00"
+            ]
+        ]
+    },
+    "1st Nov\u201331st May 9am-6pm. 1st Jun\u201331st Oct  9am-8pm, 7 days.": {
+        "Monday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Tuesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Wednesday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Thursday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Friday": [
+            [
+                "09:00",
+                "18:00"
+            ]
+        ],
+        "Saturday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ],
+        "Sunday": [
+            [
+                "09:00",
+                "20:00"
+            ]
+        ]
+    }
+}
