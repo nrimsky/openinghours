@@ -25,10 +25,9 @@ def eval(data):
 
 if __name__ == "__main__":
     data = read_data("Toilet-2023-03-02.json") # len = 560
-    eval(data=data[:10])
-    # eval(data=data[:100])
-    # eval(data=data[100:200])
-    # eval(data=data[200:300])
-    # eval(data=data[300:400])
-    # eval(data=data[400:500])
-    # eval(data=data[500:])
+    eval(data=data[:100])
+    eval(data=data[100:200])
+    eval(data=data[200:300])
+    eval(data=data[300:400])
+    eval(data=data[400:500])
+    eval(data=data[500:])
