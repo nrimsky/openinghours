@@ -51,18 +51,21 @@ MESSAGES = [
         "role": "assistant",
         "content": "INSUFFICIENT INFORMATION",
     },
-    {"role": "user", "content": "Open 9-11am and 2-7pm expect tuesdays when it is only open from 3pm"},
+    {
+        "role": "user",
+        "content": "Times vary depending on the time of year.  Normally open between 12pm and dusk Mon to Sun",
+    },
     {
         "role": "assistant",
         "content": """
 {
-    "Monday": [["09:00", "11:00"], ["14:00", "19:00"]],
-    "Tuesday": [["15:00", "19:00"]],
-    "Wednesday": [["09:00", "11:00"], ["14:00", "19:00"]],
-    "Thursday": [["09:00", "11:00"], ["14:00", "19:00"]],
-    "Friday": [["09:00", "11:00"], ["14:00", "19:00"]],
-    "Saturday":[["09:00", "11:00"], ["14:00", "19:00"]],
-    "Sunday": [["09:00", "11:00"], ["14:00", "19:00"]]
+    "Monday": [["12:00", "18:00"]],
+    "Tuesday": [["12:00", "18:00"]],
+    "Wednesday": [["12:00", "18:00"]],
+    "Thursday": [["12:00", "18:00"]],
+    "Friday": [["12:00", "18:00"]],
+    "Saturday": [["12:00", "18:00"]],
+    "Sunday": [["12:00", "18:00"]]
 }
         """,
     },
@@ -131,5 +134,5 @@ MESSAGES = [
     "Sunday": []
 }
         """,
-    }
+    },
 ]
