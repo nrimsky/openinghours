@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+    <title>Opening Hours API Demo</title>
+</head>
+<body>
+    <h1>API Demo</h1>
+    <form id="my-form">
+        <label for="opening-hours">Opening Hours:</label>
+        <input type="text" id="opening-hours" name="opening_hours">
+        <button type="submit">Submit</button>
+    </form>
+    <hr>
+    <h2>Response:</h2>
+    <pre id="response"></pre>
+    <script>
+        const form = document.getElementById('my-form');
+        const response = document.getElementById('response');
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            response.textContent = "loading...";
+            const data = { opening_hours: form.elements.opening_hours.value };
+            const options = {
+                method: 'POST',
+                body: JSON.stringify(data),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            };
+            const res = await fetch('/', options);
+            const json = await res.json();
+            response.textContent = JSON.stringify(json, null, 2);
+        });
+    </script>
+</body>
+</html>

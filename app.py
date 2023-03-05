@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 from openai_api import get_opening_times_json_codex
 
 app = Flask(__name__)
@@ -13,6 +13,10 @@ def my_api():
         print(e)
         return {}
     return parsed
+
+@app.route('/demo.html')
+def demo():
+    return render_template('demo.html')
 
 if __name__ == '__main__':
     app.run()
