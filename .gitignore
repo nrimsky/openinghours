@@ -4,3 +4,6 @@ key.txt
 venv
 .idea
 .env
+notes.txt 
+app.yaml
+.gcloudignore
