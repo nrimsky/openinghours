@@ -14,7 +14,7 @@ def my_api():
         return {}
     return parsed
 
-@app.route('/demo.html')
+@app.route('/demo')
 def demo():
     return render_template('demo.html')
 
